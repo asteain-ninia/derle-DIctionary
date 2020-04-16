@@ -11,7 +11,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "動詞に後置して～しろという強制の意思を表す。\n"
+      "text" : "動詞に後置して～しろという強制の意思を表す。"
     }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
@@ -62,7 +62,7 @@
       "form" : "bef"
     },
     "translations" : [ {
-      "title" : "接尾辞",
+      "title" : "動詞",
       "forms" : [ "～しそう・未然の活用" ]
     } ],
     "tags" : [ ],
@@ -90,7 +90,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "動詞や名詞に後置して意味を否定する。"
+      "text" : "動詞や名詞に後置して意味を反転させる、"
     }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
@@ -319,13 +319,7 @@
       "text" : "(de)新辞書移行以前"
     } ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "似義",
-      "entry" : {
-        "id" : 640,
-        "form" : "piw"
-      }
-    } ]
+    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 16,
@@ -416,9 +410,6 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "動詞・形容詞に後置する。"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -487,7 +478,7 @@
       "form" : "yur"
     },
     "translations" : [ {
-      "title" : "接尾辞",
+      "title" : "動詞",
       "forms" : [ "～っていく・緩い進行の接尾辞" ]
     } ],
     "tags" : [ ],
@@ -569,7 +560,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "初対面の相手への自己紹介が終わった時に使う、言われた相手はcaynalと返すのが礼儀。 \n稀だが、ceinaとも綴る。"
+      "text" : "初対面の相手への自己紹介が終わった時に使う、言われた相手はcaynalと返すのが礼儀。 "
     }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
@@ -725,7 +716,7 @@
     },
     "translations" : [ {
       "title" : "疑問詞",
-      "forms" : [ "目的語を問う疑問詞・何を・何に" ]
+      "forms" : [ "目的語を問う疑問詞・どこ・何処で" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -757,7 +748,7 @@
     },
     "translations" : [ {
       "title" : "疑問詞",
-      "forms" : [ "誰が?・何が?・主格の疑問詞" ]
+      "forms" : [ "誰が?・何が?" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1019,7 +1010,7 @@
     },
     "translations" : [ {
       "title" : "形容詞",
-      "forms" : [ "華やかな・カラフルな" ]
+      "forms" : [ "華やかな" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1039,9 +1030,6 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "「美しい」とは範疇が異なり、どちらかというと光物に使う。"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -1161,7 +1149,7 @@
       "form" : "enoks"
     },
     "translations" : [ {
-      "title" : "形容詞",
+      "title" : "疑問詞",
       "forms" : [ "次の・続いた先の" ]
     }, {
       "title" : "名詞",
@@ -1280,7 +1268,7 @@
     },
     "translations" : [ {
       "title" : "形容詞",
-      "forms" : [ "絵のように綺麗な・絵画的な" ]
+      "forms" : [ "絵のような" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1291,13 +1279,7 @@
       "text" : "h300618 gerks geRks (de)"
     } ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "同源",
-      "entry" : {
-        "id" : 883,
-        "form" : "gisti"
-      }
-    } ]
+    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 70,
@@ -1324,7 +1306,7 @@
     },
     "translations" : [ {
       "title" : "形容詞",
-      "forms" : [ "大きな・大きい" ]
+      "forms" : [ "大きな" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1385,9 +1367,6 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り：hampty'a"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -1467,7 +1446,7 @@
     },
     "translations" : [ {
       "title" : "形容詞",
-      "forms" : [ "良い・よい" ]
+      "forms" : [ "良い" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1707,9 +1686,6 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "ずっと～である(lot nalia ~)の時に限って”nal”の形を使うことができる。但し口語的。"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -1771,15 +1747,9 @@
     "translations" : [ {
       "title" : "形容詞",
       "forms" : [ "後験的な・後発の" ]
-    }, {
-      "title" : "副詞",
-      "forms" : [ "後で・後に" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "iclas piker 追記"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -1813,11 +1783,8 @@
       "form" : "riven"
     },
     "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "お手本" ]
-    }, {
       "title" : "形容詞",
-      "forms" : [ "模範的な・規範的な" ]
+      "forms" : [ "お手本・模範的な" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2063,15 +2030,9 @@
     "translations" : [ {
       "title" : "形容詞",
       "forms" : [ "半分の・半端な" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "半期" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "virKkat ty'a 第一期(前期)\nvirKKat Ql 　第二期(後期)\n異綴り：virkat"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -2123,9 +2084,6 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用例",
-      "text" : ".ais lot waif lova.\nとっても疲れたわ\nr010921 de"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -2263,13 +2221,7 @@
       "text" : "これは後置詞…？副詞じゃないかなぁ。"
     } ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "派生",
-      "entry" : {
-        "id" : 141,
-        "form" : "ania"
-      }
-    } ]
+    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 124,
@@ -2324,12 +2276,6 @@
       "entry" : {
         "id" : 396,
         "form" : "emenca"
-      }
-    }, {
-      "title" : "派生",
-      "entry" : {
-        "id" : 800,
-        "form" : "em"
       }
     } ]
   }, {
@@ -2464,7 +2410,7 @@
     },
     "translations" : [ {
       "title" : "接続詞",
-      "forms" : [ "～と比べて・than" ]
+      "forms" : [ "～と比べて" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2593,7 +2539,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "ほぼ死語。たまに詩文で音を合わせるのに使われる。硬い文章でも使われ、目的としての強調という意味・原因としての強調という意味がある。\n例：we Zanta lentalpan　それには飽きた。(飽きさせたのはlenteであり、飽きられたのもlente。)\n"
+      "text" : "ほぼ古語。たまに詩文で音を合わせるのに使われる。硬い文章でも使われる。目的としての強調という意味、原因としての強調という意味がある。\n例：we Zanta lentalpan　それには飽きた。(飽きさせたのはlenteであり、飽きられたのもlente。)\n"
     }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
@@ -2665,13 +2611,7 @@
       "text" : "(de)新辞書移行以前"
     } ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "派生",
-      "entry" : {
-        "id" : 123,
-        "form" : "tritnia"
-      }
-    } ]
+    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 142,
@@ -2759,9 +2699,6 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用例",
-      "text" : "ukRoy　逃げる+許す　逃がす"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -2856,13 +2793,10 @@
     },
     "translations" : [ {
       "title" : "接尾辞",
-      "forms" : [ "～を・対称格" ]
+      "forms" : [ "～を・目的格" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "gistiRagi kataCuun\n漫画家：描く　人　漫画-を\n複合語に於いて、目的・対称格を示す。文法的には使われず、造語時に現れる。古風め。\n異綴り：uun"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -2932,7 +2866,7 @@
     },
     "translations" : [ {
       "title" : "前置詞",
-      "forms" : [ "～の中で・in" ]
+      "forms" : [ "～の中で" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2955,9 +2889,6 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "短縮形；ey"
-    }, {
       "title" : "用例",
       "text" : "例 V　eype tun O[OのままでVする]"
     }, {
@@ -3078,15 +3009,9 @@
     "translations" : [ {
       "title" : "前置詞",
       "forms" : [ "～から・～より" ]
-    }, {
-      "title" : "前置詞",
-      "forms" : [ "～の・～産" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "holoka rik nihon 日本からの醤　即ち「日本醤油」"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -3171,14 +3096,11 @@
       "title" : "代名詞",
       "forms" : [ "それ" ]
     }, {
-      "title" : "形容詞",
+      "title" : "名詞",
       "forms" : [ "その" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "会話に於いて既に出たもののを代して使う。"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -3369,7 +3291,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "自分と相手以外の者の事を話すときに主語代わりに使う代名詞。 性はない。\n所有のKrをつけると発音が変化し、/ラルカー/と聞こえる音となる。"
+      "text" : "自分と相手以外の者の事を話すときに主語代わりに使う代名詞。 性はない。"
     }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
@@ -3388,7 +3310,7 @@
       "form" : "lay"
     },
     "translations" : [ {
-      "title" : "代名詞",
+      "title" : "名詞",
       "forms" : [ "僕・私め" ]
     } ],
     "tags" : [ ],
@@ -3413,7 +3335,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "目視でき、しかし手元にはないものを指す。短縮してlisと綴ることもしばしば。"
+      "text" : "目視でき、しかし手元にはないものを指す。"
     }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
@@ -4225,13 +4147,10 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "生み出す・出産する" ]
+      "forms" : [ "生み出す" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "植物には使わない。動物が生殖の結果出産をすること。転じて創作者が苦労して作品を生みだすことを指す。"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -4327,7 +4246,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "計算する" ]
+      "forms" : [ "計算" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4559,7 +4478,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "発生する・生えてくる" ]
+      "forms" : [ "発生" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4619,7 +4538,7 @@
   }, {
     "entry" : {
       "id" : 244,
-      "form" : "fladus"
+      "form" : "Fladus"
     },
     "translations" : [ {
       "title" : "動詞",
@@ -4784,7 +4703,7 @@
       "text" : "(de)新辞書移行以前"
     }, {
       "title" : "変更",
-      "text" : "h300219 hhik helka (de)"
+      "text" : "h300219 helka hhik (de)"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4826,7 +4745,7 @@
       "form" : "iclas"
     },
     "translations" : [ {
-      "title" : "動詞",
+      "title" : "",
       "forms" : [ "記す・記録する" ]
     } ],
     "tags" : [ ],
@@ -5052,7 +4971,7 @@
       "form" : "kint"
     },
     "translations" : [ {
-      "title" : "動詞",
+      "title" : "接尾辞",
       "forms" : [ "待つ" ]
     } ],
     "tags" : [ ],
@@ -5182,7 +5101,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "自動詞として、物体が勝手に(誰かに落とされたとかでなく)落ちた場合を言う。また、意図せずに手などから滑り落としたときもこう言うことがある。"
+      "text" : "自動詞として、物体が勝手に(誰かに落とされたとかでなく)落ちた場合を言う。"
     }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
@@ -5280,9 +5199,6 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "主に液体だが、例えば抱えた大量のものを落としてしまったときなどにも使う。"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -5439,13 +5355,10 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "超える・飛び越える" ]
+      "forms" : [ "超える" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語源",
-      "text" : "oz-ak\n跳ぶ-特定方向(？)"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     }, {
@@ -5733,15 +5646,9 @@
     "translations" : [ {
       "title" : "動詞",
       "forms" : [ "頭に乗せる・(帽子などを)かぶる" ]
-    }, {
-      "title" : "接続詞",
-      "forms" : [ "乗せる・乗せた・乗せ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用例",
-      "text" : "tios qeta velin xavalin mangio\nパン　甘い　乗せ　クリーム　牛乳-による\n甘パンのクリームのせ＝ケーキ"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -5824,7 +5731,7 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "～する・代動詞・Do" ]
+      "forms" : [ "～する" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5974,13 +5881,7 @@
       "text" : "(de)新辞書移行以前"
     } ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "派生",
-      "entry" : {
-        "id" : 884,
-        "form" : "xarlins"
-      }
-    } ]
+    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 322,
@@ -6182,13 +6083,10 @@
     },
     "translations" : [ {
       "title" : "前置詞",
-      "forms" : [ "～より・by・手段" ]
+      "forms" : [ "～より" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "手段・材料を表す。\n例 cirjel ererl dec\ndec数より算出される"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -6216,11 +6114,8 @@
       "form" : "esia"
     },
     "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "答え" ]
-    }, {
       "title" : "文頭詞",
-      "forms" : [ "応答の文頭詞" ]
+      "forms" : [ "答え" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6348,9 +6243,6 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "まさかとは思うが～だろうか・もしかしたら～かもしれない"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -6769,11 +6661,8 @@
       "form" : "can'nak"
     },
     "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "試作品・偶然の産物" ]
-    }, {
-      "title" : "形容詞",
-      "forms" : [ "試しの・初号・試作の・洗練されていない" ]
+      "title" : "",
+      "forms" : [ "試作品・試しの" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6875,7 +6764,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "足・脚" ]
+      "forms" : [ "足" ]
     }, {
       "title" : "動詞",
       "forms" : [ "足蹴にする・蹴る" ]
@@ -6977,13 +6866,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "蜜柑・みかん" ]
+      "forms" : [ "蜜柑" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り：ciloka"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     }, {
@@ -7123,7 +7009,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "赤色" ]
+      "forms" : [ "赤" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -7139,7 +7025,7 @@
     },
     "translations" : [ {
       "title" : "形容詞",
-      "forms" : [ "真っ赤な・真紅色の" ]
+      "forms" : [ "真っ赤な・真紅の" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -7380,7 +7266,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "猫・ねこ・にゃんこ" ]
+      "forms" : [ "猫" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -7451,7 +7337,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "比喩的に形容詞として名詞に後置し、\"名詞にとっての地上(土俵)\"という意を成す。\nesakiより古典的な語感。"
+      "text" : "比喩的に形容詞として名詞に後置し、\"名詞にとっての地上(土俵)\"という意を成す。"
     }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
@@ -7995,9 +7881,6 @@
     "contents" : [ {
       "title" : "造語",
       "text" : "(le)新辞書移行以前"
-    }, {
-      "title" : "注意",
-      "text" : "jenirt「一番目の」と語形が被っている。またeten(美術品)と意味が被っている。誤登録？"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -8028,20 +7911,11 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "yaiと似義。こちらは機関としての眼玉・眼球・視神経系を指す。但しその中でも瞳や、白目を含めた眼の色を指すことが多い。"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "似義",
-      "entry" : {
-        "id" : 572,
-        "form" : "yai"
-      }
-    } ]
+    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 436,
@@ -8155,13 +8029,7 @@
       "text" : "h300304 KarK xarK (de)"
     } ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "同源",
-      "entry" : {
-        "id" : 884,
-        "form" : "xarlins"
-      }
-    } ]
+    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 442,
@@ -8716,7 +8584,7 @@
       "text" : "(de)新辞書移行以前"
     }, {
       "title" : "注意",
-      "text" : "要変更。まんま”litium”丸出しやん"
+      "text" : "要変更。まんま”litium”から来たって丸出しやん"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -8763,9 +8631,6 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り；　lunsa"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -9125,8 +8990,8 @@
       "form" : "noka"
     },
     "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "林檎・りんご" ]
+      "title" : "",
+      "forms" : [ "林檎" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -9162,9 +9027,6 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "名前・銘" ]
-    }, {
-      "title" : "動詞",
-      "forms" : [ "呼ぶ・称する" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -9175,13 +9037,7 @@
       "text" : "h291122 nyyks qeyks"
     } ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "同義",
-      "entry" : {
-        "id" : 928,
-        "form" : "myanCa"
-      }
-    } ]
+    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 502,
@@ -9307,13 +9163,7 @@
       "text" : "(de)新辞書移行以前"
     } ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "似義",
-      "entry" : {
-        "id" : 952,
-        "form" : "k'wiska"
-      }
-    } ]
+    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 508,
@@ -9674,7 +9524,7 @@
   }, {
     "entry" : {
       "id" : 529,
-      "form" : "teylaga"
+      "form" : "taylo"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -9684,9 +9534,6 @@
     "contents" : [ {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
-    }, {
-      "title" : "変更",
-      "text" : "taylo teylaga"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -9799,7 +9646,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "食材・食べ物・可食部" ]
+      "forms" : [ "食べ物・可食部" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -9885,7 +9732,7 @@
       "forms" : [ "1・一・一つ" ]
     }, {
       "title" : "形容詞",
-      "forms" : [ "ある一つの・(多くの同じものの中で)たった一つの" ]
+      "forms" : [ "一つの・(多くの同じものの中で)たった一つの" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -10463,20 +10310,11 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "jerxeと似儀。こちらは顔の部位としての目、例えば目つき・例えば目に現れる表情のようなものを指す。"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "似義",
-      "entry" : {
-        "id" : 435,
-        "form" : "jerxe"
-      }
-    } ]
+    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 573,
@@ -10866,9 +10704,6 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語源",
-      "text" : "ty'a-kks\n1-[暦単位]"
-    }, {
       "title" : "語法",
       "text" : "特に昨日の日中を指す場合が多い。近い過去の事を指すこともある。"
     }, {
@@ -11376,7 +11211,7 @@
     },
     "translations" : [ {
       "title" : "形容詞",
-      "forms" : [ "透明な・不可視の" ]
+      "forms" : [ "透明な" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -11578,9 +11413,6 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "動詞を2つ連続で用いるとき、前に来るものに附ける。"
-    }, {
       "title" : "造語",
       "text" : "(de)h291109"
     } ],
@@ -11693,19 +11525,13 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "動詞に後置し形容詞化する。jirとの違いは訳に現れ、\"yuta wog-jir\"は「動くような何か」と訳され、\"yuta wog-piw\"は”動く何か(動いている)”と訳される。"
+      "text" : "動詞に後置し形容詞化する。jirとの違いは役に現れ、\"yuta wog-jir\"は「動くような何か」と訳され、\"yuta wog-piw\"は”動く何か(動いている)”と訳される。"
     }, {
       "title" : "造語",
       "text" : "(de)h291111"
     } ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "似義",
-      "entry" : {
-        "id" : 15,
-        "form" : "jir"
-      }
-    } ]
+    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 641,
@@ -11763,7 +11589,7 @@
       "form" : "siatip"
     },
     "translations" : [ {
-      "title" : "形容詞",
+      "title" : "副詞",
       "forms" : [ "傘下にある・庇護下の" ]
     }, {
       "title" : "名詞",
@@ -11949,9 +11775,6 @@
       "title" : "語法",
       "text" : "動詞に後置し形容詞を成し、”動詞するが為の～”とする。名詞に後置すると捧げる意味、”名詞の為の～”。形容詞、副詞その他の機能語には付かない。"
     }, {
-      "title" : "用例",
-      "text" : "meyi Ceykof 試作用の土地"
-    }, {
       "title" : "造語",
       "text" : "(de)h291202"
     } ],
@@ -12091,15 +11914,12 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "0.001・一毛" ]
+      "forms" : [ "0.01・一毛" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "造語",
       "text" : "(de)h291211"
-    }, {
-      "title" : "注意",
-      "text" : "もしかしてtypo？\n<0.01・一毛>ってなってたから<0.001・一毛>って修正しといた\nH310301 de"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -12433,7 +12253,7 @@
     },
     "translations" : [ {
       "title" : "形容詞",
-      "forms" : [ "沢山の・いっぱいの" ]
+      "forms" : [ "沢山の" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -12449,7 +12269,7 @@
     },
     "translations" : [ {
       "title" : "副詞",
-      "forms" : [ "沢山に・たっぷり・いっぱい" ]
+      "forms" : [ "沢山に・たっぷり" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -12678,10 +12498,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "”V1 O Ken V2-ink”で”OをV2ってV1する”を示す。この場合のV2には理由・前提の意味がある。\n"
-    }, {
-      "title" : "用例",
-      "text" : "kyla Keng pay we Ken fog-ing \"lo kyla\" .\n「あなたはいつも”あなたの為”と言って私を傷つける。」"
+      "text" : "”V1 O Ken V2-ink”で”OをV2ってV1する”を示す。この場合のV2には理由・前提の意味がある。\n例\"kyla Keng pay we Ken fog-ing \"lo kyla\" .\"\n　「あなたはいつも”あなたの為”と言って私を傷つける。」"
     }, {
       "title" : "造語",
       "text" : "(le)h291218"
@@ -12715,9 +12532,6 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "頻度を指す。恒常や継続は意味しない。"
-    }, {
       "title" : "造語",
       "text" : "(le)h291218"
     } ],
@@ -13404,7 +13218,7 @@
   }, {
     "entry" : {
       "id" : 731,
-      "form" : ""
+      "form" : "@"
     },
     "translations" : [ {
       "title" : "",
@@ -13413,25 +13227,19 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "細かい単語の使い方や、日本語と比べての差、そして熟語などを示す。"
+      "text" : "細かい単語の使い方や、日本語と比べての範疇の差、そして熟語などを示す。"
     }, {
       "title" : "用例",
-      "text" : "例文が載る。ZpDicにはそのうち例文集中管理機能が載るらしいので、あえて書式は揃えていない。"
+      "text" : "例文が載る。ZpDicにはそのうち例文集中管理機能が載るらしいので、あえて体裁は揃えていない。"
     }, {
       "title" : "訳語",
-      "text" : "いまでは不使用。この項目は他の項目に置き換えられているはず、もしもまだ残っていれば、それは誤植。また、見つけやすいよう最初に出るようになっている。"
-    }, {
-      "title" : "語源",
-      "text" : "語源が記される。書式が固定化されていないので検索性が悪い。"
+      "text" : "いまでは不使用。この項目は他の項目に置き換えられているはず、もしもあれば、それは誤植。また、誤植が見つけやすいように最初に出るようになっている。"
     }, {
       "title" : "造語",
-      "text" : "誰の造語か、またそれはいつか、というのを記す。deはdali-einerZy、leはluluw-elmeygを示し、主にこの二人で大勢を占めているが、まれにye(yayla-estyg)、re(reyn-elmeyg)、tl(tela-leDue)、ee(etal-elda)、ax(arkaM-xilvento)等、他の出名保持者の造語もある。\n西暦にして2019年の0431までは年を平成のｈで成し、翌日0501より令和のrで成す。\n深夜の造語については、眠る・朝日が昇ることで日付の変更を行うこととする。但し年越し、1231と0101の境に関しては年越しを以って年と日付を更新する。(新年大造語のため)"
-    }, {
-      "title" : "変更",
-      "text" : "語形の変更があった際記される。読解で出てきた単語が辞書にない時、ここにあることがある。書式はちょっとふわふわ。"
+      "text" : "誰の造語か、またそれはいつか、というのを記す。"
     }, {
       "title" : "注意",
-      "text" : "注意事項、単語についての要検証・要改定を附したり、また編集中の手記を記したりする。\n常に最下層に記される。\n\n検索でほしい単語が出なかったときは、ひらがな・漢字などで検索してみる・別の訳を考える・全文検索に切り替えてみる・より平易な言葉で検索してみる、あきらめてしばらく後に試してみる、ことで出る可能性がある。\nどうしても欲しければ私(twitter:@einerzy)に問い合わせて。\n\n凡例の更新(de)r020101"
+      "text" : "注意事項、単語についての要検証・要改定を附したり、また編集中の手記を記したりする。\n常に最下層に記される。\n凡例の更新(de)h300310"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -13484,9 +13292,6 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "子音終りの動詞と一部の例外に、i'rの代わりにつける。"
-    }, {
       "title" : "造語",
       "text" : "(de)h300310"
     } ],
@@ -13666,7 +13471,7 @@
       "form" : "keR"
     },
     "translations" : [ {
-      "title" : "後置詞",
+      "title" : "接尾辞",
       "forms" : [ "～日間" ]
     } ],
     "tags" : [ ],
@@ -13686,7 +13491,7 @@
     },
     "translations" : [ {
       "title" : "形容詞",
-      "forms" : [ "小さな・小さい" ]
+      "forms" : [ "小さな" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -13772,7 +13577,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "(樹性の)果物・果実" ]
+      "forms" : [ "(樹性の)果物" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -14165,7 +13970,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "土・土壌" ]
+      "forms" : [ "土" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -14295,7 +14100,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "頂・頂点・極大" ]
+      "forms" : [ "頂・頂点" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -14398,13 +14203,7 @@
       "text" : "(de)h300504"
     } ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "派生",
-      "entry" : {
-        "id" : 784,
-        "form" : "m'yesak"
-      }
-    } ]
+    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 784,
@@ -14423,13 +14222,7 @@
       "text" : "(de)h300504"
     } ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "派生",
-      "entry" : {
-        "id" : 783,
-        "form" : "m'yero"
-      }
-    } ]
+    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 785,
@@ -14554,7 +14347,7 @@
   }, {
     "entry" : {
       "id" : 792,
-      "form" : "Coltik"
+      "form" : "Coltk"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -14564,9 +14357,6 @@
     "contents" : [ {
       "title" : "造語",
       "text" : "h300504 (de)"
-    }, {
-      "title" : "変更",
-      "text" : "Coltk Coltik r010910 de"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -14688,7 +14478,7 @@
   }, {
     "entry" : {
       "id" : 800,
-      "form" : "em"
+      "form" : "em(2)"
     },
     "translations" : [ {
       "title" : "接続詞",
@@ -14703,13 +14493,7 @@
       "text" : "(de)h300507 但し以前から略記としてあった。"
     } ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "派生",
-      "entry" : {
-        "id" : 125,
-        "form" : "emen"
-      }
-    } ]
+    "relations" : [ ]
   }, {
     "entry" : {
       "id" : 801,
@@ -14729,7 +14513,7 @@
   }, {
     "entry" : {
       "id" : 802,
-      "form" : "akcino"
+      "form" : "akcIno"
     },
     "translations" : [ {
       "title" : "動詞",
@@ -14738,7 +14522,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "語中のIは大文字のiltoで綴ることもある。\n発音に注意。/アクシィーノ/"
+      "text" : "語中のIは大文字のilto。\n発音に注意。/アクシィーノ/"
     }, {
       "title" : "造語",
       "text" : "(de)h300507"
@@ -14998,4317 +14782,15 @@
         "id" : 246,
         "form" : "goda"
       }
-    }, {
-      "title" : "派生",
-      "entry" : {
-        "id" : 828,
-        "form" : "torpolink"
-      }
     } ]
-  }, {
-    "entry" : {
-      "id" : 817,
-      "form" : "Seno"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "止める・妨げる・邪魔をする" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300701"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 818,
-      "form" : "milai"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "悪いこと・悪事" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300701"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 819,
-      "form" : "mijen"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "罪・咎め・悪いこと" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300701"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 820,
-      "form" : "bast"
-    },
-    "translations" : [ {
-      "title" : "副詞",
-      "forms" : [ "やっぱり・やはり" ]
-    }, {
-      "title" : "感嘆詞",
-      "forms" : [ "それみたことか！・ざまぁみろ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300707"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 821,
-      "form" : "tynva"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "惑星" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "界隈・遠地" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "恒星以外の天体を指す。空に輝く星というより、地表や星そのもの。\n転じて、自分のいる場所や集団から関係的に遠い、若しくは相容れない場所や集団のことを比喩的に指す。"
-    }, {
-      "title" : "用例",
-      "text" : "tynva als miwa pyenas.\nその星は海で満ちていた。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h300731"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 822,
-      "form" : "pyenas"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "海洋・海" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300731"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 823,
-      "form" : "miwa"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "満ちている・満ちる" ]
-    }, {
-      "title" : "形容詞",
-      "forms" : [ "満ち足りた" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300731"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 824,
-      "form" : "meceek"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "期間・頃・時期" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300731"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 825,
-      "form" : "kasi"
-    },
-    "translations" : [ {
-      "title" : "副詞",
-      "forms" : [ "未だ・まだ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300731"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 826,
-      "form" : "binstis"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "物語" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300731"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 827,
-      "form" : "meQote"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "島・島嶼" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300731"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 828,
-      "form" : "torpolink"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "望み・願い" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "トーポリンク・望む事" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "Cel2312年にRanaで発行され、原始自由論の始祖となったalven-poRtesの著書名でもある。\n技術革新が進みんでゆく明るい雰囲気の中で書かれたもので、あらゆる苦役の克服を目的として、共産主義のもとで全人類が遊んで暮らせる富を目指すという思想を説く。全四巻。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h300731"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "派生",
-      "entry" : {
-        "id" : 816,
-        "form" : "torpol"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 829,
-      "form" : "misrote"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "叶う・実現する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300731"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 830,
-      "form" : "mois"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "いびつな・歪な" ]
-    }, {
-      "title" : "副詞",
-      "forms" : [ "いびつに・歪に" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300731"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 831,
-      "form" : "ols"
-    },
-    "translations" : [ {
-      "title" : "前置詞",
-      "forms" : [ "時間的な於・～に" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "ols 051 lo'a\n150年前"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h300731"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 832,
-      "form" : "jasta"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "結末・終端・結局" ]
-    }, {
-      "title" : "文頭詞",
-      "forms" : [ "そして・終着にして・結局は" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300731"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 833,
-      "form" : "puty'a"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "無様な・不格好な・滑稽な" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300731"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 834,
-      "form" : "xylvis"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "(物理的に)安定する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "物理的に、容易に動かない状態。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h300809"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 835,
-      "form" : "owl"
-    },
-    "translations" : [ {
-      "title" : "接尾辞",
-      "forms" : [ "～しない・反転の接尾辞" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "意味の反転。\n例　xylvisowl 不安定"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h300809"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 836,
-      "form" : "fascilin"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "身勝手な・わがままな" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300810"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 837,
-      "form" : "tan'na"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "指導者・首領・首・頭" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "原義は”繋ぐ者”。烏合の衆を統合して動かすためだとされる。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h300930"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 838,
-      "form" : "asCu"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "塞ぎ・蓋" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300930"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 839,
-      "form" : "lanCu"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "屋根・天蓋" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300930"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 840,
-      "form" : "envent"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "簡易な・野外用の" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300930"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 841,
-      "form" : "lasiks"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "役職・地位" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h301010"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 842,
-      "form" : "xalk"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "学年・grade" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h301010"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 843,
-      "form" : "momiccu"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "主・長・マスター" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "集団を率いる者、又はその役職を指す。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h301010"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 844,
-      "form" : "Qis"
-    },
-    "translations" : [ {
-      "title" : "感嘆詞",
-      "forms" : [ "こんにちは・Hi" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "軽い挨拶。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h301010"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 845,
-      "form" : "kia"
-    },
-    "translations" : [ {
-      "title" : "接尾辞",
-      "forms" : [ "形容詞・副詞の名詞化・~品・～もの" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "can'nakia　試作品"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h301011"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 846,
-      "form" : "iclisk"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "日記・日誌" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h301114"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 847,
-      "form" : "pilla"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "記事・頁・章・編" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h301115"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 848,
-      "form" : "klestla"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "市民館・タウンホール・公民館" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h301115"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 849,
-      "form" : "osti"
-    },
-    "translations" : [ {
-      "title" : "副詞",
-      "forms" : [ "ここには・ここに(前述の場所を受けて)" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h301116"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 850,
-      "form" : "ves"
-    },
-    "translations" : [ {
-      "title" : "前置詞",
-      "forms" : [ "～する前に" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "よく”V-est ves 句\"の形で\"句の内容が発生する前にVしてくれ\"と使われる。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h301201"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 851,
-      "form" : "lust"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "染みになる・(味が)染みる・しみる" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "何かの表面についた液体が、跡を残してなくなること。また転じてたれなどが食べ物に染みること。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h301201"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "派生",
-      "entry" : {
-        "id" : 852,
-        "form" : "xarust"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 852,
-      "form" : "xarust"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "水が染みこむ・深く濡れる" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h301201"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "派生",
-      "entry" : {
-        "id" : 851,
-        "form" : "lust"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 853,
-      "form" : "misrotas"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "叶わぬこと・絵に描いた餅・実現不能な夢" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "諦めの意味をはらむ。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h301201"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 854,
-      "form" : "fila"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "濡れた・濡れている" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "疎水性の物体表面が水で濡れていること。水以外の場合はfila eype <水以外の液体>と言う風に表現する。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h301201"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 855,
-      "form" : "Zofcis"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "気付く・見出す・はっとする" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "精神的な悟り・今まで気付いていなかったことを不意にみつけることなど。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h301201"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 856,
-      "form" : "micto"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "数学" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h301115"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 857,
-      "form" : "gulast"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "課題・宿題" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h301115"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 858,
-      "form" : "wilvo"
-    },
-    "translations" : [ {
-      "title" : "副詞",
-      "forms" : [ "思っていたよりも・予想外に" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h301115"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 859,
-      "form" : "zelo"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "違い" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h301115"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 860,
-      "form" : "ajt"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "範囲・距離・射程" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h301115"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 861,
-      "form" : "win"
-    },
-    "translations" : [ {
-      "title" : "前置詞",
-      "forms" : [ "～を含む・with" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "”A win Z”で”Zを含むA”という名詞句。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h301115"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 862,
-      "form" : "Kwosta"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "帰ってくる" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "用例",
-      "text" : "K Kwostiq rik Z. AがZへ帰ってきた"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h301116"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 863,
-      "form" : "Qyst"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "次の・順繰りが次の" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h301117"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 864,
-      "form" : "jae"
-    },
-    "translations" : [ {
-      "title" : "副詞",
-      "forms" : [ "いつか・そのうち" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h301201"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 865,
-      "form" : "libas"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "(眼に・目に)水や液体が染みて痛む" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h301210"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 866,
-      "form" : "tuos"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "雨が降っている様・雨降り" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h301210"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 867,
-      "form" : "Disti"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "細かい・小さな・微細な" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)301210"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 868,
-      "form" : "gesti"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "のどにものを詰まらせる・むせる" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "～を詰まらせるといいたいときは　gesti ~、～が詰まるといいたいときは、gestiwo ～と成す。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h301210"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 869,
-      "form" : "ye"
-    },
-    "translations" : [ {
-      "title" : "前置詞",
-      "forms" : [ "共に・一緒くたに・～につれて" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "不明。H3005の文献(Cel暦カレンダー)に用例がある。それをH310101deにより推測。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 870,
-      "form" : "caj"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "数える・指折り数える" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "数える・指折り数える" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "目視で物の数を数え上げること。機械による・機械の助けを借りた計数のことは言わない。\nそのままの形で名詞としても使われる。"
-    }, {
-      "title" : "造語",
-      "text" : "h310101(de)"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 871,
-      "form" : "baCCu"
-    },
-    "translations" : [ {
-      "title" : "文頭詞",
-      "forms" : [ "具体的には～・例を挙げれば～" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h310101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 872,
-      "form" : "pio"
-    },
-    "translations" : [ {
-      "title" : "接尾辞",
-      "forms" : [ "～群" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h310123"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 873,
-      "form" : "kross"
-    },
-    "translations" : [ {
-      "title" : "文頭詞",
-      "forms" : [ "次は～について～・話題の転換" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h310115"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 874,
-      "form" : "erlars"
-    },
-    "translations" : [ {
-      "title" : "感嘆詞",
-      "forms" : [ "Hello! こんにちは！" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "挨拶。ただし多人数に対して使うもの。スピーチの初めなど。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h310115"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 875,
-      "form" : "bo"
-    },
-    "translations" : [ {
-      "title" : "前置詞",
-      "forms" : [ "or・also・または" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h310115"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 876,
-      "form" : "eCu"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "続く・(これから先にも)続いている" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h3101??"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 877,
-      "form" : "CistiM"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "紹介する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "CistiM lo A　Aを紹介する\nCistiM A lo B AにBを紹介する"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h310131"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 878,
-      "form" : "post"
-    },
-    "translations" : [ {
-      "title" : "文頭詞",
-      "forms" : [ "次には・話題の発展" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h3101??"
-    }, {
-      "title" : "注意",
-      "text" : "krossとの使い分けは？(de)"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 879,
-      "form" : "la"
-    },
-    "translations" : [ {
-      "title" : "前置詞",
-      "forms" : [ "強調の冠詞的前置詞" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "冠詞的に使う。というか接尾辞taの接頭版というべきか。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h300115 \nただしそれ以前から使われていた。もとはlirseなどの代名詞からの派生。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 880,
-      "form" : "wir'bin"
-    },
-    "translations" : [ {
-      "title" : "感嘆詞",
-      "forms" : [ "ありがとう！" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h310131"
-    }, {
-      "title" : "変更",
-      "text" : "r010724 wir'cin wir'bin (de)"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 881,
-      "form" : "pgada"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "愛する・好く・すき・好きである" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h310204"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 882,
-      "form" : "fiv"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "戻る・やめる・後退する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h310206"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 883,
-      "form" : "gisti"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "絵・絵画" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "転じて”画面”・”図像”。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h310206"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "同源",
-      "entry" : {
-        "id" : 69,
-        "form" : "geRks"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 884,
-      "form" : "xarlins"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "始めの・最初の・原始の" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h310206"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "派生",
-      "entry" : {
-        "id" : 321,
-        "form" : "xarlo"
-      }
-    }, {
-      "title" : "同源",
-      "entry" : {
-        "id" : 441,
-        "form" : "xarK"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 885,
-      "form" : "CaM"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "音素・発音" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h310301"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 886,
-      "form" : "go"
-    },
-    "translations" : [ {
-      "title" : "前置詞",
-      "forms" : [ "～として・as" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "用例",
-      "text" : "we yiskiq lis CeM go \"sumita'akane\"."
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 887,
-      "form" : "yiska"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "記録する・録音する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "音を文字として記すこと。\n例： we yiskiq lis CeM go \"sumita'akane\""
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 888,
-      "form" : "qyn"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "呼ばれる・名される" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "用例",
-      "text" : "qyn zykac　ズィカスとよばれる"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h310302"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 889,
-      "form" : "jatus"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "横に行く・横になった" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "視界に対して水平なこと。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h310302"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 890,
-      "form" : "entu"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "棒・(まっすぐな)線" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h310303"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 891,
-      "form" : "wa"
-    },
-    "translations" : [ {
-      "title" : "代名詞",
-      "forms" : [ "私達・うちら・こっち" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "wepaの縮約。端的に言うと英語の\"we\"。\n-p-の名残で、語末を伸ばすのが規範的。waj(pのゆるみを表現)・war(長音を表現)・waa(字面を優先)など異綴りが多い。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h310331"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 892,
-      "form" : "yeyu"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "幼体・こども" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "学術的には変態をしない生き物の成熟前のものを。日常的には人間以外の生物の未成熟なものを指す。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h310406"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 893,
-      "form" : "Cy'as"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "試みる・やってみる" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h310406"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 894,
-      "form" : "klaste"
-    },
-    "translations" : [ {
-      "title" : "文頭詞",
-      "forms" : [ "また・同時に・さらに" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h310406"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 895,
-      "form" : "felmas"
-    },
-    "translations" : [ {
-      "title" : "文頭詞",
-      "forms" : [ "だから" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "S1V1 falmas S2V2で”S1がV1したのでのでS2はV2した”と成す。省いたが、もちろんOなどを絡めることもできる。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h310406"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 896,
-      "form" : "yo"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "魚・ちょろちょろと動く者" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h310415付近\nデータ消失につき詳細不明"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 897,
-      "form" : "xarpasM"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "原住民・先住民" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "日本語に於ける「原住民」・「先住民」のような差別的意味合いはない。むしろ敬意まである。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h310407"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 898,
-      "form" : "os"
-    },
-    "translations" : [ {
-      "title" : "代名詞",
-      "forms" : [ "これ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "lisと似ているが、lisよりも近いものを指す。例を挙げれば、ここでos lot ”os”Kr pilla ot derleKr Zark.といえばこの項目のこと。lis lot derleKr Zark.といえばこの辞書ということになる。これがosになる(os lot derleKr Zark)と、この項目そのものが出辞書となってしまう。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h301115"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 899,
-      "form" : "os"
-    },
-    "translations" : [ {
-      "title" : "接尾辞",
-      "forms" : [ "生物の接尾辞" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "生物の名につく接尾辞。形態素というべきか。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h310416"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 900,
-      "form" : "t'ty'anly"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "森・森林" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "硬い語。古語に近い。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "",
-      "entry" : {
-        "id" : 901,
-        "form" : "yotyanos"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 901,
-      "form" : "yotyanos"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "蜥蜴・トカゲ・とかげ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "学術的な文脈でのとかげ。日常語は縮約されたyoyosを使うことが多い。"
-    }, {
-      "title" : "語源",
-      "text" : "yo+t'ty'anly+os"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h310420"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "派生",
-      "entry" : {
-        "id" : 903,
-        "form" : "yoyos"
-      }
-    }, {
-      "title" : "",
-      "entry" : {
-        "id" : 900,
-        "form" : "t'ty'anly"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 902,
-      "form" : "yolanZa"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "川魚" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h310420"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 903,
-      "form" : "yoyos"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "とかげ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h310420"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "派生",
-      "entry" : {
-        "id" : 901,
-        "form" : "yotyanos"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 904,
-      "form" : "ty'yoZos"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "ワニ・わに・鰐" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "縮約された形。わりとまれ。\nt'tyanly+yo+ilanZa+os"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h310421"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 905,
-      "form" : "lanZa"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "川の・河川性の・淡水の" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "ilanzaの文頭にある母音を抜いたもの。他の単語に-で後置し、「川の」「淡水の」という意味を成す。\n形態素と呼ぶべきかも。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h310421"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 906,
-      "form" : "teinusgy"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "皇帝・王" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "出民が異民族の皇帝を上げて言う言葉。王 lamusgyより高いが、出皇帝 lampanより僅かに低い。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h310416"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 907,
-      "form" : "lamusgy"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "王・領主" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "皇帝(lampan・teinusgy)のもとにあり、特定の地域を支配する者。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h310416"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 908,
-      "form" : "feltatas"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "固有の・風土の" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h310428"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 909,
-      "form" : "agodo"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "(人間の)大人" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h310429"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 910,
-      "form" : "enos"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "生物・動物" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り:eenos ernos inos \n主に目に見える大きさの生き物を指す。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h310429"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 911,
-      "form" : "godos"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "(動物の)大人・成体" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h310429"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 912,
-      "form" : "lapes"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "現れる・顔を出す" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h310429"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 913,
-      "form" : "ti"
-    },
-    "translations" : [ {
-      "title" : "接尾辞",
-      "forms" : [ "指小辞・～ちゃん" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "人名につけると～ちゃん・くん。普通名詞につけるとその程度を弱めた意味を成す。\nmisrotas　不可能だ\nmisrotasti 仕方がない"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 914,
-      "form" : "booz"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "ガッカリとさせる・失望させる・(期待を)裏切る" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り：bouz(古風)　boz boos borz"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h310429"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 915,
-      "form" : "in"
-    },
-    "translations" : [ {
-      "title" : "文頭詞",
-      "forms" : [ "～なので" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "理由。kapやfainとの違いは使われるシチュエーション、fainは命令の理由を述べ、kapは因果関係、inはすることの理由として用いる。日常もっとも使うのはinか。"
-    }, {
-      "title" : "造語",
-      "text" : "r010518 ただし以前から使いたい気持ちはあった"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 916,
-      "form" : "myaf"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "円・まる・丸" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り：maf/maj/mah"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r010518"
-    }, {
-      "title" : "変更",
-      "text" : "r011121 maf myaf (de)"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 917,
-      "form" : "daam"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "殺す・めためたに壊す" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "未来・現在時制ではあまり使わず、iniなど過去時制で使う。\n用例:\n<we, la we lot daamiqaniaRagi>\n¡私だ、私こそが殺してしまったのだ!"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r010705"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 918,
-      "form" : "dikata"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "逢う・会合する・会う" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "望んで、お互いに予定を合わせて二人で会う事。\n.we la dikati'riq ki. あなたに本当に合いたかった"
-    }, {
-      "title" : "造語",
-      "text" : "R010711(de)"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 919,
-      "form" : "bieq"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "感謝する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "表記ゆれ：　byeq"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r010724"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 920,
-      "form" : "walwo"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "起こる・起きる・おこる" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "用例",
-      "text" : "moa dey walwiq! うれしいことが起こった！"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r010724"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 921,
-      "form" : "siatex"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "水蒸気" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語源",
-      "text" : "水　xark\n煙　siatto\nsiatto xark"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r010730"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 922,
-      "form" : "awaCa"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "山・やま" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "固有語。am'entよりも日常的に使われる。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r010730"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 923,
-      "form" : "adekorg"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "琥珀石" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r010730"
-    }, {
-      "title" : "語源",
-      "text" : "石　ade-\nコーグ(地名)　korg\nade-korg"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 924,
-      "form" : "amiadekorg"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "電気" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "雷のことは言わない。電子機器・送電線を流れる電気のこと。"
-    }, {
-      "title" : "語源",
-      "text" : "魔法　amaiz(amizk)\n琥珀　dekorg\n\t石　ade-\n\tコーグ(地名)　korg\namizk-ade-korg"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r010730"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 925,
-      "form" : "jala"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "飲む" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "水に限らず液体を容器などから飲む事。稀にphalaとも綴り、この場合発音が/p'hala/となる場合がある。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r010805"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 926,
-      "form" : "yon"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "(群れた)人・群衆・集団" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "人の群れ、高いところから混雑した場所を見ると浮かび上がる、滑らかに動く人。"
-    }, {
-      "title" : "造語",
-      "text" : "不明。h30中？"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 927,
-      "form" : "falawn"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "様々な" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "不明、h30中？"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 928,
-      "form" : "myanCa"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "名前" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "借用語、学術的文脈で頻繁。"
-    }, {
-      "title" : "造語",
-      "text" : "不明、h30中？"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "同義",
-      "entry" : {
-        "id" : 501,
-        "form" : "qeyks"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 929,
-      "form" : "banCi"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "(食べられる状態の)食肉" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r010907"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 930,
-      "form" : "tit'Ci"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "ケバブ的出料理" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "小麦(的穀物)による円形の生地に、甘辛く炒めた豚(的家畜)の肉を挟んだもの。野菜が入る場合・焼き卵が入る場合もある。南部では果物が入り、北部ではお野菜多めというステレオタイプがある。\n異綴り：tixi/ tit Ci(二語)"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r010907"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 931,
-      "form" : "hyati"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "あいらしい・かわいい" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "仔猫的なかわいいさ、転じて小動物の持つ魅力・小動物的な魅力を持った人をほめる言葉。ただし口語ではわりと稀。\n異綴り：yati"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 932,
-      "form" : "mok"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "働く・はたらく・労働する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "軽い仕事、デスクワークなど。重大な仕事やきつい労働などはべつの単語。転じて、口語では賃金労働全般を指す。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r010907"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 933,
-      "form" : "ais"
-    },
-    "translations" : [ {
-      "title" : "代名詞",
-      "forms" : [ "あたし・私" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "女性的一人称代名詞。とくにゆるふわな印象になる。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r010921"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 934,
-      "form" : "nass"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "くぼみ・(底のある)穴" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300909"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 935,
-      "form" : "Qaul"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "(貫通した)穴" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300909"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 936,
-      "form" : "manwo"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "蟲・昆虫・むし" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "甲虫類。芋虫類(warm)や蝶々などは除く。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011119"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 937,
-      "form" : "palans"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "労働・仕事" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "賃金労働全般。強制労働は別語。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011119"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 938,
-      "form" : "osios"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "桃色・ピンク色" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011119"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 939,
-      "form" : "jelwsada"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "ハサミ・鋏" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り：jelus'ada/jelsada　等"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011119"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 940,
-      "form" : "kes'ad"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "椅子・いす" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り：kes'ado\n視覚方言：kessad"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011120"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 941,
-      "form" : "javahala"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "(明度の高い)黄色(を発色する染料)" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "南方からくる外来染料の名前に由来。特に明度の高い黄色で、Celの十三世紀に多用された。\n明度の高い染料に加え、色彩としての薄明るい黄色にも使う。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011120"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "似義",
-      "entry" : {
-        "id" : 941,
-        "form" : "javahala"
-      }
-    }, {
-      "title" : "似義",
-      "entry" : {
-        "id" : 941,
-        "form" : "javahala"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 942,
-      "form" : "jinka"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "黄色" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011120"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 943,
-      "form" : "etilkata"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "エティルカータ地方" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "エティルカッタとも。出圏の西にあり、得手人の暮らした高地の名。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011120"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 944,
-      "form" : "soff"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "音・物音・聴覚刺激" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り；zof"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011121"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 945,
-      "form" : "basjanpa"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鳥類" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "学術語。"
-    }, {
-      "title" : "語源",
-      "text" : "baska+ja(lta)+npa\nltyからの借用語。baskaは出：beQskと同源で、翼ある温血動物の意。jaltaは集団・類の意。spaはnolの言葉で、分類上の大きなくくりのことを指す。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011121"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 946,
-      "form" : "thocii"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "顔面" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "部位としての顔面。"
-    }, {
-      "title" : "語源",
-      "text" : "lty経由のnolからの借用語。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011121"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 947,
-      "form" : "beQsk"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鳥" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "有翼の温血動物を指す。つまり、コウモリもこのうち。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011209、辞書データを飛ばしたため、登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 948,
-      "form" : "zakala"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "お菓子・おかし・おやつ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "必ずしも甘くなく、間食・軽食に供される料理を指す。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011121"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 949,
-      "form" : "ceka"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "つやのある黒・黒いもの" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011122"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 950,
-      "form" : "koska"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "おいしい・美味な" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "日常語。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011122"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 951,
-      "form" : "latahangdiaRas"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "カメラ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り：latahangdias"
-    }, {
-      "title" : "語源",
-      "text" : "自動視界写し機　もしくは　自動風景画描き機。外来語。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011124"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 952,
-      "form" : "k'wiska"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "ビデオゲーム・(道具を用いた)遊び・遊戯" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011124"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "似義",
-      "entry" : {
-        "id" : 507,
-        "form" : "onta"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 953,
-      "form" : "peisaa"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "靴" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語源",
-      "text" : "noupw+eisaa"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011124"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 954,
-      "form" : "bupl'azaz"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "足袋・たび・靴下" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り：buplaz"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011124"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 955,
-      "form" : "pataCa"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鞄・かばん・手提げバッグ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011126"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 956,
-      "form" : "als"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "その・限定と強調" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "造語不詳。tynvaの例文に現れていた。H3007頃？"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 957,
-      "form" : "stiln"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "さかさまの" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "逆位" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "造語不詳。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 958,
-      "form" : "dio"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "眼鏡・めがね" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "造語不詳"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 959,
-      "form" : "ozkLus"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "ジャンプする・飛び越える・跳ぶ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語源",
-      "text" : "メタ：oz'akから生やした。\n非メタ：oz-kLus(?)"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011127"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 960,
-      "form" : "dandil"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "スポーツ・身体競技" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011127"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 961,
-      "form" : "jan'as"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "お茶" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "乾燥したある種の葉っぱをお湯に漬け、香りと味を抽出した飲み物。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011127"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 962,
-      "form" : "ozty'akks"
-    },
-    "translations" : [ {
-      "title" : "副詞",
-      "forms" : [ "おとといに" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "おととい・おとつい・一昨日" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)011128"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 963,
-      "form" : "mazo"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "お腹・腹部" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011128"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 964,
-      "form" : "Cykaka"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "家屋・(居住性のある)建物" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011129"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 965,
-      "form" : "galoo"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "冷たくある・冷たい" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011129"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 966,
-      "form" : "xila"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "雨粒・あめ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "用例",
-      "text" : ".xila galoo.\n雨が冷たい。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011129"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 967,
-      "form" : "acmur'a"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "おじいさん・祖父" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "血縁のある、高齢の男性。\n狭義には母方父方を問わない祖父。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011129"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 968,
-      "form" : "oztliakks"
-    },
-    "translations" : [ {
-      "title" : "副詞",
-      "forms" : [ "あさってに" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "あさって・明後日" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011128"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 969,
-      "form" : "angzoda"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "車・車両・自動車" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "硬い。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011130"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 970,
-      "form" : "opininis"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "集中を切らす・よそ見をする" ]
-    }, {
-      "title" : "動詞",
-      "forms" : [ "怠惰である・さぼる" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011201"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 971,
-      "form" : "holoka"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "醤・出醤油" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "日本の醤油に似るが、製法と味の違う調味料を指す。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011202"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 972,
-      "form" : "zay"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "売る・商売する・交換する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011202"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 973,
-      "form" : "pakCi"
-    },
-    "translations" : [ {
-      "title" : "接尾辞",
-      "forms" : [ "～機・～機械" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "用例",
-      "text" : "angzaypakCi 自動販売機\n"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011202"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 974,
-      "form" : "angzaypakCi"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "自動販売機" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011202"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 975,
-      "form" : "xenpanziy"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "チンパンジー" ]
-    } ],
-    "tags" : [ "異界" ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "英語からの音写。出界記にてakanee経由で入ってきた。当然そのほかの歴史上には存在しない。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011202"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 976,
-      "form" : "lusko"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "肩・ショルｔダー" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011203"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 977,
-      "form" : "tikti"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "(やさしく)叩く・殺傷傷害の意図なく叩く" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "布団・肩・釘・家電などを叩くこと。稀に人も。"
-    }, {
-      "title" : "語源",
-      "text" : "Diko-ti"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011203"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 978,
-      "form" : "keiZan"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "食事" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011203"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 979,
-      "form" : "ksQos"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "雲・くも" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011204"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 980,
-      "form" : "mani"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "家畜乳・牛乳" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011204"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 981,
-      "form" : "xavalin"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "クリーム・ムース" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011204"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 982,
-      "form" : "gio"
-    },
-    "translations" : [ {
-      "title" : "接尾辞",
-      "forms" : [ "～による" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り:zio"
-    }, {
-      "title" : "用例",
-      "text" : "xavalin mangio　アイスクリーム　(牛乳によるムース)"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011204"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 983,
-      "form" : "yuuk"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "同好会・部・集団" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "同じスポーツなどの選手らが集まった組織、スポーツチーム。仕事の上などで結成された集団は楽しくないので含まない。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011204"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 984,
-      "form" : "renz"
-    },
-    "translations" : [ {
-      "title" : "接尾辞",
-      "forms" : [ "～学" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "(くだけて)学問" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "不明。r0110~11頃？"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 985,
-      "form" : "hillakanza"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "学校・教育施設" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "硬い単語。日常的にはhilが使われる。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011204"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 986,
-      "form" : "hil"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "学校" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011204"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 987,
-      "form" : "gal"
-    },
-    "translations" : [ {
-      "title" : "単位",
-      "forms" : [ "出温度" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300706頃"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 988,
-      "form" : "po'a"
-    },
-    "translations" : [ {
-      "title" : "後置詞",
-      "forms" : [ "～年後" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011205"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "対義",
-      "entry" : {
-        "id" : 989,
-        "form" : "lo'a"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 989,
-      "form" : "lo'a"
-    },
-    "translations" : [ {
-      "title" : "後置詞",
-      "forms" : [ "～年前" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)不明。h30頃？"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "対義",
-      "entry" : {
-        "id" : 988,
-        "form" : "po'a"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 990,
-      "form" : "enis"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "耳" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り：en'ny"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011205"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 991,
-      "form" : "monushaha"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "入浴行為" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "古風。学術的文脈に残る。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011205"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 992,
-      "form" : "moni"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "入浴する・お風呂に入る" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011205"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 993,
-      "form" : "tios"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "パン・小麦の発酵焼き" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "用例",
-      "text" : "tios qeta 甘パン(ケーキのような菓子、クリームは塗らないことの方が多い)"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011205"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 994,
-      "form" : "kataCa"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "おもしろい・滑稽な・喜劇的な" ]
-    }, {
-      "title" : "形容詞",
-      "forms" : [ "漫画的な・まんがのような" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "漫画本・まんが雑誌" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "おもしろいの意味は死語。専ら漫画の意味そのもので使われる。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011206"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 995,
-      "form" : "cator"
-    },
-    "translations" : [ {
-      "title" : "単位",
-      "forms" : [ "445mm" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "古い出単位。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h300706"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 996,
-      "form" : "dana"
-    },
-    "translations" : [ {
-      "title" : "単位",
-      "forms" : [ "111.25mm" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "古い出単位。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h300706"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 997,
-      "form" : "Cari"
-    },
-    "translations" : [ {
-      "title" : "単位",
-      "forms" : [ "22.5mm" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "古い出単位。異綴り：Carul"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h300706"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 998,
-      "form" : "wakb"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "スカート・腰蓑・こしみの" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011206"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 999,
-      "form" : "baaraca"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "バーラシャ神・日曜日・日曜神" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "森林の神。外来神で、もとは出圏東方にあった。異名はracia(ラシア神)。属性は人・男。対になる女神はbaamina神。\nバーアサ(baarasa)・バーラタ(baarata)神とも呼ばれる。\n肌から髪・爪まで新芽の色をしており、春に強まり、冬に弱まる。秋には殖え、夏には茂る。森林というより葉っぱの神とされることもある。\n日曜日、即ち出でいう七曜日の守り神ともされ、しばしば七曜日の別名としても使われる。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011209"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1000,
-      "form" : "baamina"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "バーミナ神" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "草の神。外来神で、もとは出圏東方にあった。属性は人・女。異名はmainania神(マイナニア神)対になる男神はbaaraca神。\n草のほかに土・樹皮の神とされることがあるが、枯れ葉の色を以って描かれることがほとんど。日曜夜の守護神ともされるが、夫と違い別名としてはまれ。あっても「バーミナの時間」(baaminaq)という程度。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011215"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1001,
-      "form" : "baa"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "外来神の接頭語" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "baaraca・baamina・baaranCiaなど。出人由来でない神。神話上では多くが野蛮なものと描かれ、位も低い場合が多い。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011215"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1002,
-      "form" : "baaranCia"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "バーランシャ神・バラジャ神" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異名：baaraZa。\n星の無い夜の神・暗雲の神・おばけの神。マイナーな神で、神話上にも記述が少ない。死霊を操り家畜を荒らすという。属性は獣・女。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1003,
-      "form" : "anzia"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "宝物・大事なもの" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り：anZa"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011226"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1004,
-      "form" : "mazalaaz"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "風・遺風・流儀・やり方" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り：mazalahas 　語源重視のもの。\n-aaz(～風、接尾辞)の語源で、やり方・スタイル・流儀との意。外来概念で、Celにして2500程度(50年前)に流行りだし、定着した。"
-    }, {
-      "title" : "語源",
-      "text" : "maz+lah+as 外来語。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "派生",
-      "entry" : {
-        "id" : 1005,
-        "form" : "aaz"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 1005,
-      "form" : "aaz"
-    },
-    "translations" : [ {
-      "title" : "接尾辞",
-      "forms" : [ "～風の・～による" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "用例",
-      "text" : "Cykaka derlaaz　出風住居"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "派生",
-      "entry" : {
-        "id" : 1004,
-        "form" : "mazalaaz"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 1006,
-      "form" : "woga"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "深い・むずむずとする" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "物理的な深さ、転じて、暗いものを覗いた時のような不快感。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1007,
-      "form" : "Qg'ala"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "辛い・つらい・しんどい" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "心労が体調にきている状態。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1008,
-      "form" : "bcok"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "腕" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1009,
-      "form" : "okan"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "判断する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1010,
-      "form" : "lakan"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "頭脳・かしこさ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り：lakana"
-    }, {
-      "title" : "用例",
-      "text" : "okanein agpa ey lakana.　人を勉学で判断するな"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1011,
-      "form" : "denC"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "病気・具合の悪さ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1012,
-      "form" : "dhan'na"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "(装飾された)髭" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "外来語。dhは帯気音のd。\n異綴り；Dan'na"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1013,
-      "form" : "tusu"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "井戸・水源" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1014,
-      "form" : "mujas"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "入る・侵入する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1015,
-      "form" : "dyni"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "扉" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1016,
-      "form" : "dijasi"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "玄関・門・入口・結界のほつれ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1017,
-      "form" : "sukatu"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "廊下・(機能的な)隙間" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1018,
-      "form" : "wanas"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "単純な" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1019,
-      "form" : "moza"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "重なった・重層の" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1020,
-      "form" : "oBil"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "階・階層" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "用例",
-      "text" : "obil wanas 一階建て(階-単純な)\nobil moza 二階建て(階 -重なった)\nobil wio 多階建て(階-いっぱい)"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1021,
-      "form" : "muska"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "布団・夜着" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1022,
-      "form" : "ganZia"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "頭部・頭・頭蓋" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1023,
-      "form" : "carikari"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "殖える・増殖する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1024,
-      "form" : "sklas"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "明かり・灯" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1025,
-      "form" : "pskaCakla"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "お野菜" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1026,
-      "form" : "hanipola"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "(蔓性・草本性の)果物・果実" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1027,
-      "form" : "gaga"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "道具・ツール" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1028,
-      "form" : "angastaCa"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鍵" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1029,
-      "form" : "kanta"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "カンタ神" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "牧畜の神。正確には柵と牧草の神であり、家畜そのものの神は夫であるkantiti神である。\n属性は人・女。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1030,
-      "form" : "andas-teskra"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "アンデス・テスクラ神" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "生きる草食獣(主に鹿)と獣からとれる素材の神。獣神の中でも人類寄りで、草食獣が草をはみ、人が草食獣を屠り、肉食獣が人を喰う事を至上とし、牧畜神kantaと争い討たれた。その後は草食の魔獣に変わり世界に散ったとされる。\n属性は獣・男。対神は不明。\n元はandes神とteskra神の習合。andes神は鹿、teskra神は角と骨・歯の神であったという。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1031,
-      "form" : "tip"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "傘" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語源",
-      "text" : "siatipからの類推。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1032,
-      "form" : "olkos"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "守護・基地・総督府" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "行政上の理由で置かれた大きな権力を持つ地方政府。古くは関所。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1033,
-      "form" : "lstaka"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "ルスタカ神" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "南風、温かさと春の神。ltyの語源であり、南方出圏の守護神とされる。他三柱と併せ fyl olkos (四つたる守護) に列せられる。\n属性は魔・無。\n不定形なので子を成さず代替わりもせず、最古の神の一人である。性器と同様口もないが目だけは無数にあり、魔神の眼となり一年の前前半期を見守る者。一方かつては弓の名手であったとも語られるが、これは別の神が習合しかかったものでないかとされている。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1034,
-      "form" : "niha"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "眠る・休息する・睡眠" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "nih-onで「眠ることができる」となるので、なにか小ネタがつくれそう。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1035,
-      "form" : "lty"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "ルティ地方" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "純血主義者" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "出圏の南、nol圏に接する南方地方の名。lstaka神に由来し、温かさの子、という意味(短縮による指小)。\nかつて(Cel1000代頃？)はlty'aと名乗り、現在でもそう呼ぶことがある。帝を建て、出圏を統一したのち崩壊した。このころの政治はまぁひどかったらしく、ルティア帝国といえば出圏の悪役。ただし南下による領土の獲得とete圏の吸収を行う・街道整備など功績も多い。\nルティア帝国は純血主義的政策を多くとったため、半ば罵って純血主義者の意味で使うこともあった。いまでは古語。"
-    }, {
-      "title" : "語源",
-      "text" : "lty+a\nlstaka神 (指小)+正当な(nol圏からの借用)\n意訳すると「ルスタカの子」か"
-    }, {
-      "title" : "造語",
-      "text" : "辞書登録はr020101。ただし極めて初期に於いてデーレ語はルティア語と呼ばれており、最古の単語である可能性がある。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1036,
-      "form" : "derle"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "デーレ・出圏・出国・出界・出語・出人" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "deraDa大陸中央部、三方を海に囲まれ、CyDa・ravienとは陸橋でつながるのみ。\n北部にtolu'e大陸の一部までを含み、南部はnol圏と接している。西部はete圏を覆いravienと接し、東部はCyDaに接する。\nCel2540付近に於いて世界的な強国であり、出語はある程度の上流そうであれば出界全土で通じる。ただし現界英語程ではなく、地域によって標準の出語は一切通じない。詳しくは他の情報源を参照の事。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)。造語日時不明。我らがデーレのことであり、今まで辞書登録されていないかったのが不思議。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1037,
-      "form" : "ete"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "エテ地方・得圏" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "出圏西方、ravien圏に接する山岳地帯。出人の故郷であるetilkata山脈・地方はここにある。かつて小規模であるが荘厳な得手文明が栄えたとされ、得字は出字の源流となった。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)おそらく新辞書移行前後。登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1038,
-      "form" : "tolu'e"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "トルエ地方・取圏" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "出圏北、deraDa大陸の北西に浮かぶ準大陸、にある地方の名。伝統的に魔法に優れ、Cel2550時代でも出人にとってエキゾチックな印象。\n現在はravienに西部を奪われており、緊張状態。一方出圏とは友好的。"
-    }, {
-      "title" : "造語",
-      "text" : "登録はr020101。造語は恐らく新辞書移行前後。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1039,
-      "form" : "ravien"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "ラヴィエン地方・羅圏" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "出圏西方、ete地方の向こう側に在る砂漠の地方。出圏とは別系統の人種・文明が栄え、間に山地と海を挟んでなおたびたび役を起こした。"
-    }, {
-      "title" : "造語",
-      "text" : "造語は恐らく新辞書移行以前。登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1040,
-      "form" : "baQsk"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鳥" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "空を飛ぶ温血動物を指す。つまり、コウモリもこのうち。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011209 データを吹き飛ばしたので登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1041,
-      "form" : "klvaQ"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "ふざける・からかう・遊ぶ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011209、辞書データを飛ばしたため、登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1042,
-      "form" : "jexxern"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "眉毛" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011209、辞書データを飛ばしたため、登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1043,
-      "form" : "leyztans"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "ぶらんこ・ブランコ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "振り子の原理で揺れる遊具。出圏にも古くからある。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011208、辞書データを飛ばしたため、登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1044,
-      "form" : "ragistpinCi"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "スプレー・散布機" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011208、辞書データを飛ばしたため、登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1045,
-      "form" : "xenka hkonos"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "新幹線" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "r011208の#今日の造語にあった、辞書データブチ飛ばし事件で消えた単語二つ。併せて「新幹線」になるようだが、どちらがどのような意味なのか不明。登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1046,
-      "form" : "hazz"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "凝った・硬い・凝り固まった" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011208、辞書データを飛ばしたため、登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1047,
-      "form" : "mu"
-    },
-    "translations" : [ {
-      "title" : "接尾辞",
-      "forms" : [ "～でない・非～" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "名詞に後置し、その意味を反転させる。\n例：teavis＝無駄な　teavismu=無駄でない"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011207、辞書データを飛ばしたため、登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1048,
-      "form" : "teavis"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "無駄な" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011207、辞書データを飛ばしたため、登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1049,
-      "form" : "soktohye"
-    },
-    "translations" : [ {
-      "title" : "副詞",
-      "forms" : [ "過剰に・無駄に" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011207、辞書データを飛ばしたため、登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1050,
-      "form" : "katass"
-    },
-    "translations" : [ {
-      "title" : "感嘆詞",
-      "forms" : [ "すーきっ♡" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "惚けた感じで言う。文化的には(C2540代前半に)恋人同士の鳴き声として流行った。かーたすっ！♡"
-    }, {
-      "title" : "造語",
-      "text" : "(de)R020209"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1051,
-      "form" : "ickaZert"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "辞書・辞典・語彙書" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "R020415(de)"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "@,a,A,z,Z,h,H,i,I,d,D,y,Y,j,J,p,P,b,B,f,F,m,M,n,N,v,V,u,U,e,E,t,T,s,S,w,W,k,K,l,L,o,O,q,Q,x,X,r,R,g,G,c,C",
-    "wordOrderType" : "CUSTOM",
+    "alphabetOrderType" : "CUSTOM",
     "punctuations" : [ ",", "、" ],
-    "ignoredTranslationRegex" : "",
     "pronunciationTitle" : null,
-    "plainInformationTitles" : [ "造語", "注意", "変更", "用例", "語源" ],
-    "informationTitleOrder" : [ "訳語", "用例", "語法", "語源", "造語", "変更", "注意" ],
-    "formFontFamily" : null,
+    "plainInformationTitles" : [ "造語", "注意", "変更", "用例" ],
+    "informationTitleOrder" : [ "訳語", "用例", "語法", "造語", "変更", "注意" ],
     "defaultWord" : {
       "entry" : {
         "id" : -1,

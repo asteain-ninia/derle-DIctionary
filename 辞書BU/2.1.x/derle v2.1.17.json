@@ -11,7 +11,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "動詞に後置して～しろという強制の意思を表す。\n"
+      "text" : "動詞に後置して～しろという強制の意思を表す。"
     }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
@@ -1294,7 +1294,7 @@
     "relations" : [ {
       "title" : "同源",
       "entry" : {
-        "id" : 883,
+        "id" : 884,
         "form" : "gisti"
       }
     } ]
@@ -1385,9 +1385,6 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り：hampty'a"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -2063,15 +2060,9 @@
     "translations" : [ {
       "title" : "形容詞",
       "forms" : [ "半分の・半端な" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "半期" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "virKkat ty'a 第一期(前期)\nvirKKat Ql 　第二期(後期)\n異綴り：virkat"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -2856,13 +2847,10 @@
     },
     "translations" : [ {
       "title" : "接尾辞",
-      "forms" : [ "～を・対称格" ]
+      "forms" : [ "～を・目的格" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "gistiRagi kataCuun\n漫画家：描く　人　漫画-を\n複合語に於いて、目的・対称格を示す。文法的には使われず、造語時に現れる。古風め。\n異綴り：uun"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -2955,9 +2943,6 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "短縮形；ey"
-    }, {
       "title" : "用例",
       "text" : "例 V　eype tun O[OのままでVする]"
     }, {
@@ -5733,15 +5718,9 @@
     "translations" : [ {
       "title" : "動詞",
       "forms" : [ "頭に乗せる・(帽子などを)かぶる" ]
-    }, {
-      "title" : "接続詞",
-      "forms" : [ "乗せる・乗せた・乗せ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用例",
-      "text" : "tios qeta velin xavalin mangio\nパン　甘い　乗せ　クリーム　牛乳-による\n甘パンのクリームのせ＝ケーキ"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
@@ -5977,7 +5956,7 @@
     "relations" : [ {
       "title" : "派生",
       "entry" : {
-        "id" : 884,
+        "id" : 885,
         "form" : "xarlins"
       }
     } ]
@@ -6875,7 +6854,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "足・脚" ]
+      "forms" : [ "足" ]
     }, {
       "title" : "動詞",
       "forms" : [ "足蹴にする・蹴る" ]
@@ -6977,13 +6956,10 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "蜜柑・みかん" ]
+      "forms" : [ "蜜柑" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り：ciloka"
-    }, {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
     }, {
@@ -8158,7 +8134,7 @@
     "relations" : [ {
       "title" : "同源",
       "entry" : {
-        "id" : 884,
+        "id" : 885,
         "form" : "xarlins"
       }
     } ]
@@ -9178,7 +9154,7 @@
     "relations" : [ {
       "title" : "同義",
       "entry" : {
-        "id" : 928,
+        "id" : 929,
         "form" : "myanCa"
       }
     } ]
@@ -9310,7 +9286,7 @@
     "relations" : [ {
       "title" : "似義",
       "entry" : {
-        "id" : 952,
+        "id" : 953,
         "form" : "k'wiska"
       }
     } ]
@@ -13425,13 +13401,13 @@
       "text" : "語源が記される。書式が固定化されていないので検索性が悪い。"
     }, {
       "title" : "造語",
-      "text" : "誰の造語か、またそれはいつか、というのを記す。deはdali-einerZy、leはluluw-elmeygを示し、主にこの二人で大勢を占めているが、まれにye(yayla-estyg)、re(reyn-elmeyg)、tl(tela-leDue)、ee(etal-elda)、ax(arkaM-xilvento)等、他の出名保持者の造語もある。\n西暦にして2019年の0431までは年を平成のｈで成し、翌日0501より令和のrで成す。\n深夜の造語については、眠る・朝日が昇ることで日付の変更を行うこととする。但し年越し、1231と0101の境に関しては年越しを以って年と日付を更新する。(新年大造語のため)"
+      "text" : "誰の造語か、またそれはいつか、というのを記す。deはdali-einerZy、leはluluw-elmeygを示し、主にこの二人で大勢を占めているが、まれにye(yayla-estyg)、re(reyn-elmeyg)、tl(tela-leDue)、ee(etal-elda)、ax(arkaM-xilvento)等、他の出名保持者の造語もある。\n西暦にして2019年の0431までは年を平成のｈで成し、翌日0501より令和のrで成す。\n深夜の造語については、寝る・朝日が昇ることで日付の変更を行うこととする。"
     }, {
       "title" : "変更",
       "text" : "語形の変更があった際記される。読解で出てきた単語が辞書にない時、ここにあることがある。書式はちょっとふわふわ。"
     }, {
       "title" : "注意",
-      "text" : "注意事項、単語についての要検証・要改定を附したり、また編集中の手記を記したりする。\n常に最下層に記される。\n\n検索でほしい単語が出なかったときは、ひらがな・漢字などで検索してみる・別の訳を考える・全文検索に切り替えてみる・より平易な言葉で検索してみる、あきらめてしばらく後に試してみる、ことで出る可能性がある。\nどうしても欲しければ私(twitter:@einerzy)に問い合わせて。\n\n凡例の更新(de)r020101"
+      "text" : "注意事項、単語についての要検証・要改定を附したり、また編集中の手記を記したりする。\n常に最下層に記される。\n\n検索でほしい単語が出なかったときは、ひらがな・漢字などで検索してみる・別の訳を考える・全文検索に切り替えてみる・より平易な言葉で検索してみる、あきらめてしばらく後に試してみる、ことで出る可能性がある。\nどうしても欲しければ私(twitter:@einerzy)に問い合わせて。\n\n凡例の更新(de)r011201"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -13772,7 +13748,7 @@
     },
     "translations" : [ {
       "title" : "名詞",
-      "forms" : [ "(樹性の)果物・果実" ]
+      "forms" : [ "(樹性の)果物" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -15811,7 +15787,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 862,
+      "id" : 863,
       "form" : "Kwosta"
     },
     "translations" : [ {
@@ -15830,7 +15806,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 863,
+      "id" : 864,
       "form" : "Qyst"
     },
     "translations" : [ {
@@ -15846,7 +15822,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 864,
+      "id" : 865,
       "form" : "jae"
     },
     "translations" : [ {
@@ -15862,7 +15838,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 865,
+      "id" : 866,
       "form" : "libas"
     },
     "translations" : [ {
@@ -15878,7 +15854,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 866,
+      "id" : 867,
       "form" : "tuos"
     },
     "translations" : [ {
@@ -15894,7 +15870,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 867,
+      "id" : 868,
       "form" : "Disti"
     },
     "translations" : [ {
@@ -15910,7 +15886,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 868,
+      "id" : 869,
       "form" : "gesti"
     },
     "translations" : [ {
@@ -15929,7 +15905,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 869,
+      "id" : 870,
       "form" : "ye"
     },
     "translations" : [ {
@@ -15945,7 +15921,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 870,
+      "id" : 871,
       "form" : "caj"
     },
     "translations" : [ {
@@ -15967,7 +15943,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 871,
+      "id" : 872,
       "form" : "baCCu"
     },
     "translations" : [ {
@@ -15983,7 +15959,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 872,
+      "id" : 873,
       "form" : "pio"
     },
     "translations" : [ {
@@ -15999,7 +15975,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 873,
+      "id" : 874,
       "form" : "kross"
     },
     "translations" : [ {
@@ -16015,7 +15991,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 874,
+      "id" : 875,
       "form" : "erlars"
     },
     "translations" : [ {
@@ -16034,7 +16010,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 875,
+      "id" : 876,
       "form" : "bo"
     },
     "translations" : [ {
@@ -16050,7 +16026,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 876,
+      "id" : 877,
       "form" : "eCu"
     },
     "translations" : [ {
@@ -16066,7 +16042,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 877,
+      "id" : 878,
       "form" : "CistiM"
     },
     "translations" : [ {
@@ -16085,7 +16061,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 878,
+      "id" : 879,
       "form" : "post"
     },
     "translations" : [ {
@@ -16104,7 +16080,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 879,
+      "id" : 880,
       "form" : "la"
     },
     "translations" : [ {
@@ -16123,7 +16099,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 880,
+      "id" : 881,
       "form" : "wir'bin"
     },
     "translations" : [ {
@@ -16142,7 +16118,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 881,
+      "id" : 882,
       "form" : "pgada"
     },
     "translations" : [ {
@@ -16158,7 +16134,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 882,
+      "id" : 883,
       "form" : "fiv"
     },
     "translations" : [ {
@@ -16174,7 +16150,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 883,
+      "id" : 884,
       "form" : "gisti"
     },
     "translations" : [ {
@@ -16196,10 +16172,16 @@
         "id" : 69,
         "form" : "geRks"
       }
+    }, {
+      "title" : "同源",
+      "entry" : {
+        "id" : 69,
+        "form" : "geRks"
+      }
     } ]
   }, {
     "entry" : {
-      "id" : 884,
+      "id" : 885,
       "form" : "xarlins"
     },
     "translations" : [ {
@@ -16227,7 +16209,7 @@
     } ]
   }, {
     "entry" : {
-      "id" : 885,
+      "id" : 886,
       "form" : "CaM"
     },
     "translations" : [ {
@@ -16243,7 +16225,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 886,
+      "id" : 887,
       "form" : "go"
     },
     "translations" : [ {
@@ -16259,7 +16241,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 887,
+      "id" : 888,
       "form" : "yiska"
     },
     "translations" : [ {
@@ -16269,13 +16251,13 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "音を文字として記すこと。\n例： we yiskiq lis CeM go \"sumita'akane\""
+      "text" : "音を文字として記すこと。\n例： we tiskiq lis CeM go \"sumita'akane\""
     } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 888,
+      "id" : 889,
       "form" : "qyn"
     },
     "translations" : [ {
@@ -16294,7 +16276,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 889,
+      "id" : 890,
       "form" : "jatus"
     },
     "translations" : [ {
@@ -16313,7 +16295,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 890,
+      "id" : 891,
       "form" : "entu"
     },
     "translations" : [ {
@@ -16329,7 +16311,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 891,
+      "id" : 892,
       "form" : "wa"
     },
     "translations" : [ {
@@ -16348,7 +16330,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 892,
+      "id" : 893,
       "form" : "yeyu"
     },
     "translations" : [ {
@@ -16367,7 +16349,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 893,
+      "id" : 894,
       "form" : "Cy'as"
     },
     "translations" : [ {
@@ -16383,7 +16365,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 894,
+      "id" : 895,
       "form" : "klaste"
     },
     "translations" : [ {
@@ -16399,7 +16381,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 895,
+      "id" : 896,
       "form" : "felmas"
     },
     "translations" : [ {
@@ -16418,7 +16400,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 896,
+      "id" : 897,
       "form" : "yo"
     },
     "translations" : [ {
@@ -16434,7 +16416,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 897,
+      "id" : 898,
       "form" : "xarpasM"
     },
     "translations" : [ {
@@ -16453,7 +16435,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 898,
+      "id" : 899,
       "form" : "os"
     },
     "translations" : [ {
@@ -16463,7 +16445,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "lisと似ているが、lisよりも近いものを指す。例を挙げれば、ここでos lot ”os”Kr pilla ot derleKr Zark.といえばこの項目のこと。lis lot derleKr Zark.といえばこの辞書ということになる。これがosになる(os lot derleKr Zark)と、この項目そのものが出辞書となってしまう。"
+      "text" : "lisと似ているが、lisよりも近いものを指す。例を挙げれば、ここでos lot ”os”Kr pilla ot derleKr Zark.といえばこの項目のこと。lis lot derleKr Zark.といえばこの辞書ということになる。"
     }, {
       "title" : "造語",
       "text" : "(de)h301115"
@@ -16472,7 +16454,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 899,
+      "id" : 900,
       "form" : "os"
     },
     "translations" : [ {
@@ -16491,7 +16473,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 900,
+      "id" : 901,
       "form" : "t'ty'anly"
     },
     "translations" : [ {
@@ -16507,13 +16489,13 @@
     "relations" : [ {
       "title" : "",
       "entry" : {
-        "id" : 901,
+        "id" : 902,
         "form" : "yotyanos"
       }
     } ]
   }, {
     "entry" : {
-      "id" : 901,
+      "id" : 902,
       "form" : "yotyanos"
     },
     "translations" : [ {
@@ -16535,19 +16517,19 @@
     "relations" : [ {
       "title" : "派生",
       "entry" : {
-        "id" : 903,
+        "id" : 904,
         "form" : "yoyos"
       }
     }, {
       "title" : "",
       "entry" : {
-        "id" : 900,
+        "id" : 901,
         "form" : "t'ty'anly"
       }
     } ]
   }, {
     "entry" : {
-      "id" : 902,
+      "id" : 903,
       "form" : "yolanZa"
     },
     "translations" : [ {
@@ -16563,7 +16545,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 903,
+      "id" : 904,
       "form" : "yoyos"
     },
     "translations" : [ {
@@ -16579,13 +16561,13 @@
     "relations" : [ {
       "title" : "派生",
       "entry" : {
-        "id" : 901,
+        "id" : 902,
         "form" : "yotyanos"
       }
     } ]
   }, {
     "entry" : {
-      "id" : 904,
+      "id" : 905,
       "form" : "ty'yoZos"
     },
     "translations" : [ {
@@ -16604,7 +16586,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 905,
+      "id" : 906,
       "form" : "lanZa"
     },
     "translations" : [ {
@@ -16623,7 +16605,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 906,
+      "id" : 907,
       "form" : "teinusgy"
     },
     "translations" : [ {
@@ -16642,7 +16624,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 907,
+      "id" : 908,
       "form" : "lamusgy"
     },
     "translations" : [ {
@@ -16661,7 +16643,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 908,
+      "id" : 909,
       "form" : "feltatas"
     },
     "translations" : [ {
@@ -16677,7 +16659,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 909,
+      "id" : 910,
       "form" : "agodo"
     },
     "translations" : [ {
@@ -16693,7 +16675,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 910,
+      "id" : 911,
       "form" : "enos"
     },
     "translations" : [ {
@@ -16712,7 +16694,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 911,
+      "id" : 912,
       "form" : "godos"
     },
     "translations" : [ {
@@ -16728,7 +16710,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 912,
+      "id" : 913,
       "form" : "lapes"
     },
     "translations" : [ {
@@ -16744,7 +16726,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 913,
+      "id" : 914,
       "form" : "ti"
     },
     "translations" : [ {
@@ -16760,7 +16742,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 914,
+      "id" : 915,
       "form" : "booz"
     },
     "translations" : [ {
@@ -16779,7 +16761,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 915,
+      "id" : 916,
       "form" : "in"
     },
     "translations" : [ {
@@ -16798,7 +16780,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 916,
+      "id" : 917,
       "form" : "myaf"
     },
     "translations" : [ {
@@ -16820,7 +16802,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 917,
+      "id" : 918,
       "form" : "daam"
     },
     "translations" : [ {
@@ -16839,7 +16821,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 918,
+      "id" : 919,
       "form" : "dikata"
     },
     "translations" : [ {
@@ -16858,7 +16840,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 919,
+      "id" : 920,
       "form" : "bieq"
     },
     "translations" : [ {
@@ -16877,7 +16859,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 920,
+      "id" : 921,
       "form" : "walwo"
     },
     "translations" : [ {
@@ -16896,7 +16878,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 921,
+      "id" : 922,
       "form" : "siatex"
     },
     "translations" : [ {
@@ -16915,7 +16897,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 922,
+      "id" : 923,
       "form" : "awaCa"
     },
     "translations" : [ {
@@ -16934,7 +16916,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 923,
+      "id" : 924,
       "form" : "adekorg"
     },
     "translations" : [ {
@@ -16953,7 +16935,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 924,
+      "id" : 925,
       "form" : "amiadekorg"
     },
     "translations" : [ {
@@ -16975,7 +16957,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 925,
+      "id" : 926,
       "form" : "jala"
     },
     "translations" : [ {
@@ -16994,7 +16976,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 926,
+      "id" : 927,
       "form" : "yon"
     },
     "translations" : [ {
@@ -17013,7 +16995,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 927,
+      "id" : 928,
       "form" : "falawn"
     },
     "translations" : [ {
@@ -17029,7 +17011,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 928,
+      "id" : 929,
       "form" : "myanCa"
     },
     "translations" : [ {
@@ -17054,7 +17036,7 @@
     } ]
   }, {
     "entry" : {
-      "id" : 929,
+      "id" : 930,
       "form" : "banCi"
     },
     "translations" : [ {
@@ -17070,7 +17052,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 930,
+      "id" : 931,
       "form" : "tit'Ci"
     },
     "translations" : [ {
@@ -17089,7 +17071,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 931,
+      "id" : 932,
       "form" : "hyati"
     },
     "translations" : [ {
@@ -17105,7 +17087,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 932,
+      "id" : 933,
       "form" : "mok"
     },
     "translations" : [ {
@@ -17124,7 +17106,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 933,
+      "id" : 934,
       "form" : "ais"
     },
     "translations" : [ {
@@ -17143,7 +17125,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 934,
+      "id" : 935,
       "form" : "nass"
     },
     "translations" : [ {
@@ -17159,7 +17141,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 935,
+      "id" : 936,
       "form" : "Qaul"
     },
     "translations" : [ {
@@ -17175,7 +17157,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 936,
+      "id" : 937,
       "form" : "manwo"
     },
     "translations" : [ {
@@ -17194,7 +17176,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 937,
+      "id" : 938,
       "form" : "palans"
     },
     "translations" : [ {
@@ -17213,7 +17195,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 938,
+      "id" : 939,
       "form" : "osios"
     },
     "translations" : [ {
@@ -17229,7 +17211,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 939,
+      "id" : 940,
       "form" : "jelwsada"
     },
     "translations" : [ {
@@ -17248,7 +17230,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 940,
+      "id" : 941,
       "form" : "kes'ad"
     },
     "translations" : [ {
@@ -17267,7 +17249,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 941,
+      "id" : 942,
       "form" : "javahala"
     },
     "translations" : [ {
@@ -17286,19 +17268,19 @@
     "relations" : [ {
       "title" : "似義",
       "entry" : {
-        "id" : 941,
+        "id" : 942,
         "form" : "javahala"
       }
     }, {
       "title" : "似義",
       "entry" : {
-        "id" : 941,
+        "id" : 942,
         "form" : "javahala"
       }
     } ]
   }, {
     "entry" : {
-      "id" : 942,
+      "id" : 943,
       "form" : "jinka"
     },
     "translations" : [ {
@@ -17314,7 +17296,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 943,
+      "id" : 944,
       "form" : "etilkata"
     },
     "translations" : [ {
@@ -17333,7 +17315,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 944,
+      "id" : 945,
       "form" : "soff"
     },
     "translations" : [ {
@@ -17352,7 +17334,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 945,
+      "id" : 946,
       "form" : "basjanpa"
     },
     "translations" : [ {
@@ -17374,7 +17356,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 946,
+      "id" : 947,
       "form" : "thocii"
     },
     "translations" : [ {
@@ -17396,7 +17378,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 947,
+      "id" : 948,
       "form" : "beQsk"
     },
     "translations" : [ {
@@ -17409,13 +17391,13 @@
       "text" : "有翼の温血動物を指す。つまり、コウモリもこのうち。"
     }, {
       "title" : "造語",
-      "text" : "(de)r011209、辞書データを飛ばしたため、登録はr020101。"
+      "text" : "(de)r011121"
     } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 948,
+      "id" : 949,
       "form" : "zakala"
     },
     "translations" : [ {
@@ -17434,7 +17416,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 949,
+      "id" : 950,
       "form" : "ceka"
     },
     "translations" : [ {
@@ -17450,7 +17432,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 950,
+      "id" : 951,
       "form" : "koska"
     },
     "translations" : [ {
@@ -17469,7 +17451,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 951,
+      "id" : 952,
       "form" : "latahangdiaRas"
     },
     "translations" : [ {
@@ -17491,7 +17473,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 952,
+      "id" : 953,
       "form" : "k'wiska"
     },
     "translations" : [ {
@@ -17513,7 +17495,7 @@
     } ]
   }, {
     "entry" : {
-      "id" : 953,
+      "id" : 954,
       "form" : "peisaa"
     },
     "translations" : [ {
@@ -17532,7 +17514,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 954,
+      "id" : 955,
       "form" : "bupl'azaz"
     },
     "translations" : [ {
@@ -17551,7 +17533,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 955,
+      "id" : 956,
       "form" : "pataCa"
     },
     "translations" : [ {
@@ -17567,7 +17549,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 956,
+      "id" : 957,
       "form" : "als"
     },
     "translations" : [ {
@@ -17583,7 +17565,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 957,
+      "id" : 958,
       "form" : "stiln"
     },
     "translations" : [ {
@@ -17602,7 +17584,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 958,
+      "id" : 959,
       "form" : "dio"
     },
     "translations" : [ {
@@ -17618,7 +17600,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 959,
+      "id" : 960,
       "form" : "ozkLus"
     },
     "translations" : [ {
@@ -17637,7 +17619,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 960,
+      "id" : 961,
       "form" : "dandil"
     },
     "translations" : [ {
@@ -17653,7 +17635,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 961,
+      "id" : 962,
       "form" : "jan'as"
     },
     "translations" : [ {
@@ -17672,7 +17654,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 962,
+      "id" : 963,
       "form" : "ozty'akks"
     },
     "translations" : [ {
@@ -17691,7 +17673,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 963,
+      "id" : 964,
       "form" : "mazo"
     },
     "translations" : [ {
@@ -17707,7 +17689,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 964,
+      "id" : 965,
       "form" : "Cykaka"
     },
     "translations" : [ {
@@ -17723,7 +17705,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 965,
+      "id" : 966,
       "form" : "galoo"
     },
     "translations" : [ {
@@ -17739,7 +17721,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 966,
+      "id" : 967,
       "form" : "xila"
     },
     "translations" : [ {
@@ -17758,7 +17740,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 967,
+      "id" : 968,
       "form" : "acmur'a"
     },
     "translations" : [ {
@@ -17777,7 +17759,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 968,
+      "id" : 969,
       "form" : "oztliakks"
     },
     "translations" : [ {
@@ -17796,7 +17778,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 969,
+      "id" : 970,
       "form" : "angzoda"
     },
     "translations" : [ {
@@ -17815,7 +17797,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 970,
+      "id" : 971,
       "form" : "opininis"
     },
     "translations" : [ {
@@ -17834,7 +17816,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 971,
+      "id" : 972,
       "form" : "holoka"
     },
     "translations" : [ {
@@ -17853,7 +17835,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 972,
+      "id" : 973,
       "form" : "zay"
     },
     "translations" : [ {
@@ -17869,7 +17851,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 973,
+      "id" : 974,
       "form" : "pakCi"
     },
     "translations" : [ {
@@ -17888,7 +17870,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 974,
+      "id" : 975,
       "form" : "angzaypakCi"
     },
     "translations" : [ {
@@ -17904,14 +17886,14 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 975,
+      "id" : 976,
       "form" : "xenpanziy"
     },
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "チンパンジー" ]
     } ],
-    "tags" : [ "異界" ],
+    "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
       "text" : "英語からの音写。出界記にてakanee経由で入ってきた。当然そのほかの歴史上には存在しない。"
@@ -17923,7 +17905,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 976,
+      "id" : 977,
       "form" : "lusko"
     },
     "translations" : [ {
@@ -17939,7 +17921,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 977,
+      "id" : 978,
       "form" : "tikti"
     },
     "translations" : [ {
@@ -17949,7 +17931,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "布団・肩・釘・家電などを叩くこと。稀に人も。"
+      "text" : "布団・肩・釘・家電。"
     }, {
       "title" : "語源",
       "text" : "Diko-ti"
@@ -17961,7 +17943,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 978,
+      "id" : 979,
       "form" : "keiZan"
     },
     "translations" : [ {
@@ -17972,1330 +17954,6 @@
     "contents" : [ {
       "title" : "造語",
       "text" : "(de)r011203"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 979,
-      "form" : "ksQos"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "雲・くも" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011204"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 980,
-      "form" : "mani"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "家畜乳・牛乳" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011204"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 981,
-      "form" : "xavalin"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "クリーム・ムース" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011204"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 982,
-      "form" : "gio"
-    },
-    "translations" : [ {
-      "title" : "接尾辞",
-      "forms" : [ "～による" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り:zio"
-    }, {
-      "title" : "用例",
-      "text" : "xavalin mangio　アイスクリーム　(牛乳によるムース)"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011204"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 983,
-      "form" : "yuuk"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "同好会・部・集団" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "同じスポーツなどの選手らが集まった組織、スポーツチーム。仕事の上などで結成された集団は楽しくないので含まない。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011204"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 984,
-      "form" : "renz"
-    },
-    "translations" : [ {
-      "title" : "接尾辞",
-      "forms" : [ "～学" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "(くだけて)学問" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "不明。r0110~11頃？"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 985,
-      "form" : "hillakanza"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "学校・教育施設" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "硬い単語。日常的にはhilが使われる。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011204"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 986,
-      "form" : "hil"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "学校" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011204"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 987,
-      "form" : "gal"
-    },
-    "translations" : [ {
-      "title" : "単位",
-      "forms" : [ "出温度" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)h300706頃"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 988,
-      "form" : "po'a"
-    },
-    "translations" : [ {
-      "title" : "後置詞",
-      "forms" : [ "～年後" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011205"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "対義",
-      "entry" : {
-        "id" : 989,
-        "form" : "lo'a"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 989,
-      "form" : "lo'a"
-    },
-    "translations" : [ {
-      "title" : "後置詞",
-      "forms" : [ "～年前" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)不明。h30頃？"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "対義",
-      "entry" : {
-        "id" : 988,
-        "form" : "po'a"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 990,
-      "form" : "enis"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "耳" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り：en'ny"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011205"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 991,
-      "form" : "monushaha"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "入浴行為" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "古風。学術的文脈に残る。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011205"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 992,
-      "form" : "moni"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "入浴する・お風呂に入る" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011205"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 993,
-      "form" : "tios"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "パン・小麦の発酵焼き" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "用例",
-      "text" : "tios qeta 甘パン(ケーキのような菓子、クリームは塗らないことの方が多い)"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011205"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 994,
-      "form" : "kataCa"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "おもしろい・滑稽な・喜劇的な" ]
-    }, {
-      "title" : "形容詞",
-      "forms" : [ "漫画的な・まんがのような" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "漫画本・まんが雑誌" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "おもしろいの意味は死語。専ら漫画の意味そのもので使われる。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011206"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 995,
-      "form" : "cator"
-    },
-    "translations" : [ {
-      "title" : "単位",
-      "forms" : [ "445mm" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "古い出単位。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h300706"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 996,
-      "form" : "dana"
-    },
-    "translations" : [ {
-      "title" : "単位",
-      "forms" : [ "111.25mm" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "古い出単位。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h300706"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 997,
-      "form" : "Cari"
-    },
-    "translations" : [ {
-      "title" : "単位",
-      "forms" : [ "22.5mm" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "古い出単位。異綴り：Carul"
-    }, {
-      "title" : "造語",
-      "text" : "(de)h300706"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 998,
-      "form" : "wakb"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "スカート・腰蓑・こしみの" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011206"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 999,
-      "form" : "baaraca"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "バーラシャ神・日曜日・日曜神" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "森林の神。外来神で、もとは出圏東方にあった。異名はracia(ラシア神)。属性は人・男。対になる女神はbaamina神。\nバーアサ(baarasa)・バーラタ(baarata)神とも呼ばれる。\n肌から髪・爪まで新芽の色をしており、春に強まり、冬に弱まる。秋には殖え、夏には茂る。森林というより葉っぱの神とされることもある。\n日曜日、即ち出でいう七曜日の守り神ともされ、しばしば七曜日の別名としても使われる。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011209"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1000,
-      "form" : "baamina"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "バーミナ神" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "草の神。外来神で、もとは出圏東方にあった。属性は人・女。異名はmainania神(マイナニア神)対になる男神はbaaraca神。\n草のほかに土・樹皮の神とされることがあるが、枯れ葉の色を以って描かれることがほとんど。日曜夜の守護神ともされるが、夫と違い別名としてはまれ。あっても「バーミナの時間」(baaminaq)という程度。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011215"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1001,
-      "form" : "baa"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "外来神の接頭語" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "baaraca・baamina・baaranCiaなど。出人由来でない神。神話上では多くが野蛮なものと描かれ、位も低い場合が多い。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011215"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1002,
-      "form" : "baaranCia"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "バーランシャ神・バラジャ神" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異名：baaraZa。\n星の無い夜の神・暗雲の神・おばけの神。マイナーな神で、神話上にも記述が少ない。死霊を操り家畜を荒らすという。属性は獣・女。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1003,
-      "form" : "anzia"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "宝物・大事なもの" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り：anZa"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011226"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1004,
-      "form" : "mazalaaz"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "風・遺風・流儀・やり方" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り：mazalahas 　語源重視のもの。\n-aaz(～風、接尾辞)の語源で、やり方・スタイル・流儀との意。外来概念で、Celにして2500程度(50年前)に流行りだし、定着した。"
-    }, {
-      "title" : "語源",
-      "text" : "maz+lah+as 外来語。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "派生",
-      "entry" : {
-        "id" : 1005,
-        "form" : "aaz"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 1005,
-      "form" : "aaz"
-    },
-    "translations" : [ {
-      "title" : "接尾辞",
-      "forms" : [ "～風の・～による" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "用例",
-      "text" : "Cykaka derlaaz　出風住居"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ {
-      "title" : "派生",
-      "entry" : {
-        "id" : 1004,
-        "form" : "mazalaaz"
-      }
-    } ]
-  }, {
-    "entry" : {
-      "id" : 1006,
-      "form" : "woga"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "深い・むずむずとする" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "物理的な深さ、転じて、暗いものを覗いた時のような不快感。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1007,
-      "form" : "Qg'ala"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "辛い・つらい・しんどい" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "心労が体調にきている状態。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1008,
-      "form" : "bcok"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "腕" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1009,
-      "form" : "okan"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "判断する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1010,
-      "form" : "lakan"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "頭脳・かしこさ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "異綴り：lakana"
-    }, {
-      "title" : "用例",
-      "text" : "okanein agpa ey lakana.　人を勉学で判断するな"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1011,
-      "form" : "denC"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "病気・具合の悪さ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1012,
-      "form" : "dhan'na"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "(装飾された)髭" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "外来語。dhは帯気音のd。\n異綴り；Dan'na"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1013,
-      "form" : "tusu"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "井戸・水源" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1014,
-      "form" : "mujas"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "入る・侵入する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1015,
-      "form" : "dyni"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "扉" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1016,
-      "form" : "dijasi"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "玄関・門・入口・結界のほつれ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1017,
-      "form" : "sukatu"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "廊下・(機能的な)隙間" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1018,
-      "form" : "wanas"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "単純な" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1019,
-      "form" : "moza"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "重なった・重層の" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1020,
-      "form" : "oBil"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "階・階層" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "用例",
-      "text" : "obil wanas 一階建て(階-単純な)\nobil moza 二階建て(階 -重なった)\nobil wio 多階建て(階-いっぱい)"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1021,
-      "form" : "muska"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "布団・夜着" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1022,
-      "form" : "ganZia"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "頭部・頭・頭蓋" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1023,
-      "form" : "carikari"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "殖える・増殖する" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1024,
-      "form" : "sklas"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "明かり・灯" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1025,
-      "form" : "pskaCakla"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "お野菜" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1026,
-      "form" : "hanipola"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "(蔓性・草本性の)果物・果実" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1027,
-      "form" : "gaga"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "道具・ツール" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1028,
-      "form" : "angastaCa"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鍵" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1029,
-      "form" : "kanta"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "カンタ神" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "牧畜の神。正確には柵と牧草の神であり、家畜そのものの神は夫であるkantiti神である。\n属性は人・女。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1030,
-      "form" : "andas-teskra"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "アンデス・テスクラ神" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "生きる草食獣(主に鹿)と獣からとれる素材の神。獣神の中でも人類寄りで、草食獣が草をはみ、人が草食獣を屠り、肉食獣が人を喰う事を至上とし、牧畜神kantaと争い討たれた。その後は草食の魔獣に変わり世界に散ったとされる。\n属性は獣・男。対神は不明。\n元はandes神とteskra神の習合。andes神は鹿、teskra神は角と骨・歯の神であったという。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1031,
-      "form" : "tip"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "傘" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語源",
-      "text" : "siatipからの類推。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1032,
-      "form" : "olkos"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "守護・基地・総督府" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "行政上の理由で置かれた大きな権力を持つ地方政府。古くは関所。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1033,
-      "form" : "lstaka"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "ルスタカ神" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "南風、温かさと春の神。ltyの語源であり、南方出圏の守護神とされる。他三柱と併せ fyl olkos (四つたる守護) に列せられる。\n属性は魔・無。\n不定形なので子を成さず代替わりもせず、最古の神の一人である。性器と同様口もないが目だけは無数にあり、魔神の眼となり一年の前前半期を見守る者。一方かつては弓の名手であったとも語られるが、これは別の神が習合しかかったものでないかとされている。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1034,
-      "form" : "niha"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "眠る・休息する・睡眠" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "nih-onで「眠ることができる」となるので、なにか小ネタがつくれそう。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r020101"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1035,
-      "form" : "lty"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "ルティ地方" ]
-    }, {
-      "title" : "名詞",
-      "forms" : [ "純血主義者" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "出圏の南、nol圏に接する南方地方の名。lstaka神に由来し、温かさの子、という意味(短縮による指小)。\nかつて(Cel1000代頃？)はlty'aと名乗り、現在でもそう呼ぶことがある。帝を建て、出圏を統一したのち崩壊した。このころの政治はまぁひどかったらしく、ルティア帝国といえば出圏の悪役。ただし南下による領土の獲得とete圏の吸収を行う・街道整備など功績も多い。\nルティア帝国は純血主義的政策を多くとったため、半ば罵って純血主義者の意味で使うこともあった。いまでは古語。"
-    }, {
-      "title" : "語源",
-      "text" : "lty+a\nlstaka神 (指小)+正当な(nol圏からの借用)\n意訳すると「ルスタカの子」か"
-    }, {
-      "title" : "造語",
-      "text" : "辞書登録はr020101。ただし極めて初期に於いてデーレ語はルティア語と呼ばれており、最古の単語である可能性がある。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1036,
-      "form" : "derle"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "デーレ・出圏・出国・出界・出語・出人" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "deraDa大陸中央部、三方を海に囲まれ、CyDa・ravienとは陸橋でつながるのみ。\n北部にtolu'e大陸の一部までを含み、南部はnol圏と接している。西部はete圏を覆いravienと接し、東部はCyDaに接する。\nCel2540付近に於いて世界的な強国であり、出語はある程度の上流そうであれば出界全土で通じる。ただし現界英語程ではなく、地域によって標準の出語は一切通じない。詳しくは他の情報源を参照の事。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)。造語日時不明。我らがデーレのことであり、今まで辞書登録されていないかったのが不思議。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1037,
-      "form" : "ete"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "エテ地方・得圏" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "出圏西方、ravien圏に接する山岳地帯。出人の故郷であるetilkata山脈・地方はここにある。かつて小規模であるが荘厳な得手文明が栄えたとされ、得字は出字の源流となった。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)おそらく新辞書移行前後。登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1038,
-      "form" : "tolu'e"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "トルエ地方・取圏" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "出圏北、deraDa大陸の北西に浮かぶ準大陸、にある地方の名。伝統的に魔法に優れ、Cel2550時代でも出人にとってエキゾチックな印象。\n現在はravienに西部を奪われており、緊張状態。一方出圏とは友好的。"
-    }, {
-      "title" : "造語",
-      "text" : "登録はr020101。造語は恐らく新辞書移行前後。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1039,
-      "form" : "ravien"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "ラヴィエン地方・羅圏" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "出圏西方、ete地方の向こう側に在る砂漠の地方。出圏とは別系統の人種・文明が栄え、間に山地と海を挟んでなおたびたび役を起こした。"
-    }, {
-      "title" : "造語",
-      "text" : "造語は恐らく新辞書移行以前。登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1040,
-      "form" : "baQsk"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "鳥" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "空を飛ぶ温血動物を指す。つまり、コウモリもこのうち。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011209 データを吹き飛ばしたので登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1041,
-      "form" : "klvaQ"
-    },
-    "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "ふざける・からかう・遊ぶ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011209、辞書データを飛ばしたため、登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1042,
-      "form" : "jexxern"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "眉毛" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011209、辞書データを飛ばしたため、登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1043,
-      "form" : "leyztans"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "ぶらんこ・ブランコ" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "振り子の原理で揺れる遊具。出圏にも古くからある。"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011208、辞書データを飛ばしたため、登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1044,
-      "form" : "ragistpinCi"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "スプレー・散布機" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011208、辞書データを飛ばしたため、登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1045,
-      "form" : "xenka hkonos"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "新幹線" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "r011208の#今日の造語にあった、辞書データブチ飛ばし事件で消えた単語二つ。併せて「新幹線」になるようだが、どちらがどのような意味なのか不明。登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1046,
-      "form" : "hazz"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "凝った・硬い・凝り固まった" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011208、辞書データを飛ばしたため、登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1047,
-      "form" : "mu"
-    },
-    "translations" : [ {
-      "title" : "接尾辞",
-      "forms" : [ "～でない・非～" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "名詞に後置し、その意味を反転させる。\n例：teavis＝無駄な　teavismu=無駄でない"
-    }, {
-      "title" : "造語",
-      "text" : "(de)r011207、辞書データを飛ばしたため、登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1048,
-      "form" : "teavis"
-    },
-    "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "無駄な" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011207、辞書データを飛ばしたため、登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1049,
-      "form" : "soktohye"
-    },
-    "translations" : [ {
-      "title" : "副詞",
-      "forms" : [ "過剰に・無駄に" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "(de)r011207、辞書データを飛ばしたため、登録はr020101。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1050,
-      "form" : "katass"
-    },
-    "translations" : [ {
-      "title" : "感嘆詞",
-      "forms" : [ "すーきっ♡" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "語法",
-      "text" : "惚けた感じで言う。文化的には(C2540代前半に)恋人同士の鳴き声として流行った。かーたすっ！♡"
-    }, {
-      "title" : "造語",
-      "text" : "(de)R020209"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 1051,
-      "form" : "ickaZert"
-    },
-    "translations" : [ {
-      "title" : "名詞",
-      "forms" : [ "辞書・辞典・語彙書" ]
-    } ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "造語",
-      "text" : "R020415(de)"
     } ],
     "variations" : [ ],
     "relations" : [ ]
