@@ -19299,6 +19299,28 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1052,
+      "form" : "lampan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "出帝・ランパン帝" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "ランパン市" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "初代出皇帝ata-lampanのこと。転じて出国事実上の首都であるランパン記念市を指す。"
+    }, {
+      "title" : "造語",
+      "text" : "辞書登録：R020506\nそれ以前(h291012以前)より用例はある。ランパン市自体は今日の創作。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "@,a,A,z,Z,h,H,i,I,d,D,y,Y,j,J,p,P,b,B,f,F,m,M,n,N,v,V,u,U,e,E,t,T,s,S,w,W,k,K,l,L,o,O,q,Q,x,X,r,R,g,G,c,C",
