@@ -5919,7 +5919,7 @@
       "title" : "語法",
       "text" : "弦楽器を演奏すること。"
     }, {
-      "title" : "用例",
+      "title" : "造語",
       "text" : "(de)新辞書移行以前"
     } ],
     "variations" : [ ],
@@ -19340,6 +19340,25 @@
     }, {
       "title" : "造語",
       "text" : "(de)R020516"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1054,
+      "form" : "enkie"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "瓦" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "泥で練り上げられ、焼かれた屋根材料。"
+    }, {
+      "title" : "造語",
+      "text" : "(de)r020703"
     } ],
     "variations" : [ ],
     "relations" : [ ]
