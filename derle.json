@@ -19362,6 +19362,57 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1055,
+      "form" : "or'ky"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "(物理的に)長い・しなる・撓る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "造語",
+      "text" : "(de)r020705"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1056,
+      "form" : "tyazio"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "木製の・木による" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "造語",
+      "text" : "(de)r020705"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1057,
+      "form" : "tyank"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "樹木棲の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "alley-or'ky:tyank\n樹木棲のナガネズミ"
+    }, {
+      "title" : "造語",
+      "text" : "(de)r020705"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "@,a,A,z,Z,h,H,i,I,d,D,y,Y,j,J,p,P,b,B,f,F,m,M,n,N,v,V,u,U,e,E,t,T,s,S,w,W,k,K,l,L,o,O,q,Q,x,X,r,R,g,G,c,C",
