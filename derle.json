@@ -4950,7 +4950,7 @@
   }, {
     "entry" : {
       "id" : 263,
-      "form" : "jrq"
+      "form" : "jurqi"
     },
     "translations" : [ {
       "title" : "動詞",
@@ -4960,6 +4960,9 @@
     "contents" : [ {
       "title" : "造語",
       "text" : "(de)新辞書移行以前"
+    }, {
+      "title" : "変更",
+      "text" : "r020830 jrq jurqi (de)"
     } ],
     "variations" : [ ],
     "relations" : [ ]
