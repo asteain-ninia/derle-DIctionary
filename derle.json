@@ -28263,7 +28263,7 @@
         },
         {
             "entry": {
-                "id": 1067,
+                "id": 1068,
                 "form": "angs"
             },
             "translations": [
@@ -28333,23 +28333,7 @@
             ],
             "variations": [],
             "relations": []
-        }, {
-            "entry" : {
-              "id" : 1070,
-              "form" : "angs"
-            },
-            "translations" : [ {
-              "title" : "副詞",
-              "forms" : [ "自動で・自発的に" ]
-            } ],
-            "tags" : [ ],
-            "contents" : [ {
-              "title" : "造語",
-              "text" : "(de)r020903 angzaypakCiなどから類推。"
-            } ],
-            "variations" : [ ],
-            "relations" : [ ]
-          }
+        }
     ],
     "zpdic": {
         "alphabetOrder": "@,a,A,z,Z,h,H,i,I,d,D,y,Y,j,J,p,P,b,B,f,F,m,M,n,N,v,V,u,U,e,E,t,T,s,S,w,W,k,K,l,L,o,O,q,Q,x,X,r,R,g,G,c,C",
