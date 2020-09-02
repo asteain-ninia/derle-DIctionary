@@ -357,7 +357,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "動詞に後置し完了形にする、終わらせるという動詞にも使う"
+      "text" : "動詞に後置し完了形にする、終わらせるという動詞にも使う。動詞として使った上で「終わらせた」とするときはlilｙと綴る。(もともとは同名の人名に掛けた冗句)"
     }, {
       "title" : "造語",
       "text" : "(de)h291109"
@@ -7580,6 +7580,9 @@
     "translations" : [ {
       "title" : "名詞",
       "forms" : [ "左" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "左側の" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -19602,6 +19605,73 @@
     }, {
       "title" : "造語",
       "text" : "(de)r020830"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1067,
+      "form" : "astaCa"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "押さえる・守る・抑える" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "造語",
+      "text" : "(de)r020903 angastaCaから類推。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1067,
+      "form" : "angs"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "自動で・自発的に" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "造語",
+      "text" : "(de)r020903 angzaypakCiなどから類推。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1068,
+      "form" : "akop'auk"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "翻訳する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "異綴：akopauk apokaux など。"
+    }, {
+      "title" : "造語",
+      "text" : "(de)r020903"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1069,
+      "form" : "vonst"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "選ぶ・選択する・採用する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "造語",
+      "text" : "(de)r020903"
     } ],
     "variations" : [ ],
     "relations" : [ ]
