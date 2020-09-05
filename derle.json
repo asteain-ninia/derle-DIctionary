@@ -14179,7 +14179,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "地面にある状態の土を言う。土壁などの土や袋詰めされた土のことは言わない。"
+      "text" : "地面にある状態の土を言う。土壁などの土や袋詰めされた土のことは言わない。\nマイクラ翻訳で\"xooCanban\"という言い回しが発生した。これは雑草のCanbaと掛けた言葉で、出界に存在する可能性は低いため立項はせずここに記載する。"
     }, {
       "title" : "造語",
       "text" : "(de)h300304"
@@ -16647,6 +16647,9 @@
       "title" : "語法",
       "text" : "出民が異民族の皇帝を上げて言う言葉。王 lamusgyより高いが、出皇帝 lampanより僅かに低い。"
     }, {
+      "title" : "語源",
+      "text" : "tein+(lam)usgy"
+    }, {
       "title" : "造語",
       "text" : "(de)h310416"
     } ],
@@ -18050,7 +18053,7 @@
       "text" : "異綴り:zio"
     }, {
       "title" : "用例",
-      "text" : "xavalin mangio　アイスクリーム　(牛乳によるムース)"
+      "text" : "xavalin mangio　アイスクリーム　(牛乳によるムース)\ntyaqu enbvis oukgio オークの丸太(伐り倒されたオーク製の丸太)"
     }, {
       "title" : "造語",
       "text" : "(de)r011204"
@@ -19761,6 +19764,57 @@
     "contents" : [ {
       "title" : "造語",
       "text" : "(de)r020904"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1076,
+      "form" : "enb"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "伐り倒す・伐採する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "造語",
+      "text" : "(de)r020906"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1077,
+      "form" : "inkie"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "整えられた・整備された・製材済みの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "tyaqu inkie 木材"
+    }, {
+      "title" : "造語",
+      "text" : "(de)r020906"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1078,
+      "form" : "Sih"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "葉っぱ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "造語",
+      "text" : "(de)r020906"
     } ],
     "variations" : [ ],
     "relations" : [ ]
