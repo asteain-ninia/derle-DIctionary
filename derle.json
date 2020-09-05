@@ -19675,6 +19675,95 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1071,
+      "form" : "roya"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "許可する・ゆるす・させる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "異綴:roy"
+    }, {
+      "title" : "造語",
+      "text" : "(de)R020904"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1072,
+      "form" : "vis"
+    },
+    "translations" : [ {
+      "title" : "接尾辞",
+      "forms" : [ "～した・状態" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "royvis 許可されている(もの)\n形容詞になるか名詞になるかは文脈。"
+    }, {
+      "title" : "造語",
+      "text" : "(de)r020904 teavis/xilvisから類推。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1073,
+      "form" : "erek"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "拒否する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "造語",
+      "text" : "(de)r020904"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1074,
+      "form" : "latah"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "視界・視野" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "眼で観測できる範囲のこと。転じて、脳に届いている情報。"
+    }, {
+      "title" : "造語",
+      "text" : "(de)r020904 latahangdiaRas/malahazから類推。　\nlatah-ang-diaRas, ma-la(ta)h-az"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1075,
+      "form" : "yew"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "視る・視界に入れる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "造語",
+      "text" : "(de)r020904"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "@,a,A,z,Z,h,H,i,I,d,D,y,Y,j,J,p,P,b,B,f,F,m,M,n,N,v,V,u,U,e,E,t,T,s,S,w,W,k,K,l,L,o,O,q,Q,x,X,r,R,g,G,c,C",
