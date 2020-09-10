@@ -17743,7 +17743,10 @@
     },
     "translations" : [ {
       "title" : "動詞",
-      "forms" : [ "冷たくある・冷たい" ]
+      "forms" : [ "冷たくある" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "冷たい" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -19815,6 +19818,41 @@
     "contents" : [ {
       "title" : "造語",
       "text" : "(de)r020906"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1079,
+      "form" : "ami"
+    },
+    "translations" : [ {
+      "title" : "接尾辞",
+      "forms" : [ "～かつ～・形容詞/副詞の並列" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用例",
+      "text" : "冷たくて深い海(表層から冷たい)　pyenas galoami woga\n深くて冷たい海(表層には言及なし)　pyenas wogami galoo"
+    }, {
+      "title" : "造語",
+      "text" : "(de)r020910"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 1080,
+      "form" : "ety'oerl"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "金製の・黄金に輝く" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "造語",
+      "text" : "(de)r020910"
     } ],
     "variations" : [ ],
     "relations" : [ ]
