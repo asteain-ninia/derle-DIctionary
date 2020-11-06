@@ -1,0 +1,1 @@
+ZpDICオンラインに移行したよ。URLはhttp://zpdic.ziphil.com/dictionary/derle　。GitHubに上げる機能はついてないぽいから(最低でも付くまで、もしかしたらずっと)こっちのリポジトリは更新停止するよ。
